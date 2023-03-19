@@ -1,12 +1,14 @@
 {
   "name": "paul-andrei-onac",
   "version": "1.0.0",
-  "description": "",
+  "description": "Paul Andrei Onac - HUGO Front-End Developer",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "prod": "hugo --minify",
+    "dev": "hugo",
+    "watch": "hugo && hugo server --disableFastRender"
   },
-  "author": "",
+  "author": "Paul Andrei Onac",
   "license": "ISC",
   "dependencies": {
     "bootstrap": "^5.2.3"

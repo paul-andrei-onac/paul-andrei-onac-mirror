@@ -1,7 +1,7 @@
 baseURL: # if your site is in 'https', then make sure your base url isn't written using 'http' otherwise your sitemap would contain http (as opposeed to https) URLs. This would affect Google indexing of your URLs.
 title: charlola.mode
 paginate: 5
-
+theme: paul-andrei-onac-theme
 
 
 menu:
@@ -15,13 +15,15 @@ menu:
         - name: Projects
           url: /projects/
           weight: 15
-
-     # - name: Categories
-        #   url: /categories/
-        #   weight: 10
-        # - name: new Tab
-        #   url: /newtab/
-        #   weight: defines order of tabs
+        - name: Categories
+          url: /categories/
+          weight: 10
+        - name: Tags
+          url: /tags/
+          weight: 5
+        - name: new Tab
+          url: /newtab/
+          weight: defines order of tabs
    
 
 
@@ -30,7 +32,7 @@ params:
 
 
     defaultTheme: auto
-    # disableThemeToggle: true
+    disableThemeToggle: false
     ShowShareButtons: true
     ShowReadingTime: true
     displayFullLangName: true
@@ -41,14 +43,14 @@ params:
     profileMode:
         # Disable to populate home page with 'mainSections' content
         enabled: true
-        title: Joe Doe
+        title: Paul Andrei Onac
         description: |
 
-          Hello, I am Joe.
-           I am a software developer. 
+          Hello, I am Andrei.
+          I am a Hugo Frond-End Developer. 
         
 
-          This is a minimalistic theme template for websites.
+        
         imageUrl: "/images/profile.png"
         imageTitle: my image
         # imageWidth: 120

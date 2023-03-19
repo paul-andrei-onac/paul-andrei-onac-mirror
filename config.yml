@@ -51,7 +51,7 @@ params:
         
 
         
-        imageUrl: "/images/profile.png"
+        imageUrl: "/images/profile.jpg"
         imageTitle: my image
         # imageWidth: 120
         # imageHeight: 120

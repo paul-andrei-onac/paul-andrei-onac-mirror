@@ -63,11 +63,15 @@ params:
 
     socialIcons:
         - name: buymeacoffee
+          url: "https://www.buymeacoffee.com/paulandreionac"
+        - name: gitlab
           url: "/"
         - name: github
           url: "/"
         - name: linkedin
           url: "https://www.linkedin.com/in/paul-andrei-onac/"
+        - name: email
+          url: "mailto:onac.paul.andrei@gmail.com"
 
       # add more social icons. find more in svg.html file
       # - name: youtube

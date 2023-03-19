@@ -35,8 +35,7 @@
 
 
 {{ $style := resources.Get "sass/main.scss" | toCSS (dict "targetPath" "main.css" "enableSourceMap" true) | fingerprint }}
-  <link rel="stylesheet" href="{{ $style.RelPermalink }}" type="text/css">
-
+<link rel="stylesheet" href="{{ $style.RelPermalink }}" type="text/css">
 <link crossorigin="anonymous" href="{{ $style.RelPermalink }}" integrity="{{ $style.Data.Integrity }}" rel="preload stylesheet" as="style">
 
 

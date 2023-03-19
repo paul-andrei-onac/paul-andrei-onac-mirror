@@ -1,5 +1,5 @@
 baseURL: # if your site is in 'https', then make sure your base url isn't written using 'http' otherwise your sitemap would contain http (as opposeed to https) URLs. This would affect Google indexing of your URLs.
-title: charlola.mode
+title: mode
 paginate: 5
 theme: paul-andrei-onac-theme
 
@@ -63,11 +63,11 @@ params:
 
     socialIcons:
         - name: buymeacoffee
-          url: "https://ko-fi.com/heycharlola"
+          url: "/"
         - name: github
-          url: "https://github.com/charlola"
+          url: "/"
         - name: linkedin
-          url: "https://www.linkedin.com/in/heycharlola/"
+          url: "https://www.linkedin.com/in/paul-andrei-onac/"
 
       # add more social icons. find more in svg.html file
       # - name: youtube

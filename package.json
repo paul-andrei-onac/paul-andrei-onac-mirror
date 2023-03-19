@@ -9,7 +9,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "bootstrap": "^5.2.3",
-    "hugo-extended": "^0.111.3"
+    "bootstrap": "^5.2.3"
   }
 }

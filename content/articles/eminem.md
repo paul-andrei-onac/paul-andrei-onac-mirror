@@ -1,6 +1,6 @@
 ---
-title: Surprise Surprise
-type: page
+title: Eminem
+type: blog
 description: Click on me to see the content.
 topic: career
 ---
@@ -11,3 +11,7 @@ topic: career
 Hello. If you like this template, I'd be happy to get nothing:)
 
 {{< figure src="/images/thankyou.png" title="" >}}
+
+    body {
+      test
+    }

@@ -133,7 +133,8 @@
     {{- end }}
 </noscript>
 
-
+{{- template "partials/templates/schema_json.html" . }}
 {{- /* Misc */}}
 {{- if hugo.IsProduction | or (eq .Site.Params.env "production") }}
+
 {{- end -}}

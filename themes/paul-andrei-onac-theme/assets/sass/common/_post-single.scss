@@ -301,6 +301,13 @@
 
 .post-footer {
   margin-top: 56px;
+
+  nav {
+    ul {
+      padding-top: 30px;
+      padding-inline-start: 40px;
+    }
+  }
 }
 
 .post-tags li {

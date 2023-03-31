@@ -1,15 +1,14 @@
 ---
 title: "{{ replace .Name "-" " " | title }}"
-date: {{ .Date }}
-type: blog
-draft: false
-title: ""
 description: ""
+date: {{ .Date }}
+draft: false
+type: blog
+topic: ""
 slug: ""
-authors: [""]
+authors: ["Paul Andrei Onac"]
 tags: [""]
 categories: [""]
-externalLink: ""
 series: [""]
+externalLink: ""
 ---
-

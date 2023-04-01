@@ -3,7 +3,7 @@
     {{- if .Site.Copyright }}
     <span>{{ .Site.Copyright | markdownify }}</span>
     {{- else }}
-    <span> Build by Paul Andrei Onac</span>
+    <span> Built by {{ .Site.Params.author }}</span>
     {{- end }}
       <!--
     <div><span> <a href="{{ "" | absLangURL }}">{{ .Site.Title }}</a> </span></div>

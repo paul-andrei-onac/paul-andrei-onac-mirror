@@ -1,9 +1,7 @@
 baseURL: # if your site is in 'https', then make sure your base url isn't written using 'http' otherwise your sitemap would contain http (as opposeed to https) URLs. This would affect Google indexing of your URLs.
 title: Paul Andrei Onac
-paginate: 5
+paginate: 10
 theme: paul-andrei-onac-theme
-
-
 
 menu:
     main:
@@ -30,8 +28,6 @@ menu:
 
 params:
     author: Paul Andrei Onac
-
-
     defaultTheme: auto
     disableThemeToggle: false
     ShowShareButtons: true
@@ -48,25 +44,23 @@ params:
         description: |
 
           Hello, I am Andrei.
-          I am a Hugo Frond-End Developer. 
-        
-
+          I am a Hugo Frond-End Developer.
         
         imageUrl: "/images/profile.jpg"
         imageTitle: my image
-        # imageWidth: 120
-        # imageHeight: 120
+        imageWidth: 250
+        imageHeight: 250
         buttons:
-            - name: Don't click me
-              url: https://www.youtube.com/watch?v=dQw4w9WgXcQ
+            # - name: Don't click me
+              # url: https://www.youtube.com/watch?v=dQw4w9WgXcQ
     mainSections:
       - articles
 
     socialIcons:
-        - name: buymeacoffee
-          url: "https://www.buymeacoffee.com/paulandreionac"
+        # - name: buymeacoffee
+          # url: "https://www.buymeacoffee.com/paulandreionac"
         - name: gitlab
-          url: "/"
+          url: "https://gitlab.com/paul-andrei-onac"
         - name: github
           url: "/"
         - name: linkedin
@@ -109,3 +103,10 @@ taxonomies:
   category: "categories"
   tag: "tags"
   author: "authors"
+
+markup:
+  goldmark:
+    renderer:
+      hardWraps: false
+      unsafe: true
+      xhtml: false

@@ -15,14 +15,15 @@ externalLink: ""
 
 ## Here are all the Flex properties.
 
-- Flex
+Flex
 - ```flex-grow```
 - ```flex-shrink```
 - ```flex-basis```
-- Flex Flow
+
+Flex-flow
 - ```flex-flow```
 
-**Side note:** This is the order of your shorthand.
+> **Side note:** This is the order of your shorthand.
 
 ### This is the shorthand.
 

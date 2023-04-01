@@ -134,6 +134,7 @@
 </noscript>
 
 {{- template "partials/templates/schema_json.html" . }}
+{{- template "partials/templates/opengraph.html" . }}
 {{- /* Misc */}}
 {{- if hugo.IsProduction | or (eq .Site.Params.env "production") }}
 

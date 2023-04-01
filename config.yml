@@ -28,6 +28,7 @@ menu:
 
 params:
     author: Paul Andrei Onac
+    description: Front-End Developer
     defaultTheme: auto
     disableThemeToggle: false
     ShowShareButtons: true

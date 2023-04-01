@@ -341,18 +341,20 @@
 
 .share-buttons {
   margin: 14px 0;
-  padding-inline-start: var(--radius);
+  padding: .5rem;
+  // padding-inline-start: var(--radius);
   display: flex;
   justify-content: center;
   overflow-x: auto;
+  gap: 1rem;
 }
 
 .share-buttons a {
-  margin-top: 10px;
+  // margin-top: 10px;
 }
 
 .share-buttons a:not(:last-of-type) {
-  margin-inline-end: 12px;
+  // margin-inline-end: 12px;
 }
 
 .share-buttons a svg {

@@ -50,13 +50,13 @@ baseURL = ""
       name = "Paul Andrei Onac"
       # you can add extra information before the name (HTML format is supported), such as icons
       # 你可以在名称 (允许 HTML 格式) 之前添加其他信息, 例如图标
-      pre = "<i class='far fa-kiss-wink-heart fa-fw' aria-hidden='true'></i>"
+      pre = "<i class='far fa-smile-wink fa-fw' aria-hidden='true'></i>"
       # you can add extra information after the name (HTML format is supported), such as icons
       # 你可以在名称 (允许 HTML 格式) 之后添加其他信息, 例如图标
       post = ""
       # whether to use typeit animation for title name
       # 是否为标题显示打字机动画
-      typeit = false
+      typeit = true
 
   # Footer config
   # 页面底部信息配置
@@ -754,12 +754,12 @@ baseURL = ""
         title = ""
       [[languages.en.menu.main]]
         weight = 6
-        identifier = "github"
-        pre = "<i class='fab fa-github fa-fw' aria-hidden='true'></i>"
+        identifier = "gitlab"
+        pre = "<i class='fab fa-gitlab fa-fw' aria-hidden='true'></i>"
         post = ""
         name = ""
-        url = "https://github.com/dillonzq/LoveIt"
-        title = "GitHub"
+        url = ""
+        title = "GitLab"
     [languages.en.params]
       [languages.en.params.search]
         enable = true

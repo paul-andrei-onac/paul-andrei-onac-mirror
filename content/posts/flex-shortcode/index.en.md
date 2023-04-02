@@ -1,11 +1,11 @@
 ---
 weight: 2
 title: "Flex Shorthand - Content"
-date: 2020-03-05T15:58:26+08:00
-lastmod: 2020-03-05T15:58:26+08:00
+date: 2023-03-05T15:58:26+08:00
+lastmod: 2023-03-05T15:58:26+08:00
 draft: false
 author: "Andrei"
-authorLink: "https://dillonzq.com"
+authorLink: ""
 description: "Find out how to create and organize your content quickly and intuitively in LoveIt theme."
 images: []
 resources:

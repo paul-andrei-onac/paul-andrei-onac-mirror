@@ -1,3 +1,5 @@
+baseURL = "" 
+
 [module]
   [module.hugoVersion]
     extended = true
@@ -136,7 +138,7 @@
     enable = true
     # type of search engine ["lunr", "algolia"]
     # 搜索引擎的类型 ["lunr", "algolia"]
-    type = "algolia"
+    type = "lunr"
     # max index length of the chunked content
     # 文章内容最长索引长度
     contentLength = 4000
@@ -761,7 +763,7 @@
     [languages.en.params]
       [languages.en.params.search]
         enable = true
-        type = "algolia"
+        type = "lunr"
         contentLength = 4000
         placeholder = ""
         maxResultLength = 10
@@ -854,7 +856,7 @@
     [languages.zh-cn.params]
       [languages.zh-cn.params.search]
         enable = true
-        type = "algolia"
+        type = "lunr"
         contentLength = 4000
         placeholder = ""
         maxResultLength = 10

@@ -1,5 +1,16 @@
 baseURL = "" 
 
+# theme
+# 主题
+theme = ""
+# themes directory
+# 主题目录
+themesDir = ""
+
+# website title
+# 网站标题
+title = "Paul Andrei Onac"
+
 [module]
   [module.hugoVersion]
     extended = true
@@ -25,7 +36,7 @@ baseURL = ""
   title = "Paul Andrei Onac"
   # website description for RSS, SEO, Open Graph and Twitter Cards
   # 网站描述, 用于 RSS, SEO, Open Graph 和 Twitter Cards
-  description = "This is my cool site"
+  description = "Hello, I am Paul Andrei Onac and I am a Hugo Front-End Developer. This is a HUGO blog post that offers information about specific CSS, HTML, JavaScript use cases."
   # website images for Open Graph and Twitter Cards
   # 网站图片, 用于 Open Graph 和 Twitter Cards
   images = []
@@ -180,7 +191,7 @@ baseURL = ""
       avatarURL = ""
       # title shown in home page (HTML format is supported)
       # 主页显示的网站标题 (支持 HTML 格式)
-      title = ""
+      title = "Hugo Front-End Developer"
       # subtitle shown in home page (HTML format is supported)
       # 主页显示的网站副标题 (允许 HTML 格式)
       subtitle = "This is my cool site"
@@ -780,7 +791,7 @@ baseURL = ""
           enable = true
           gravatarEmail = ""
           avatarURL = "/images/profile.jpg"
-          title = ""
+          title = "Hugo Front-End Developer"
           subtitle = "Hello, I am Andrei. I am a Front-End Developer."
           typeit = true
           social = true
@@ -847,12 +858,12 @@ baseURL = ""
         title = ""
       [[languages.zh-cn.menu.main]]
         weight = 6
-        identifier = "github"
-        pre = "<i class='fab fa-github fa-fw' aria-hidden='true'></i>"
+        identifier = "gitlub"
+        pre = "<i class='fab fa-gitlab fa-fw' aria-hidden='true'></i>"
         post = ""
         name = ""
-        url = "https://github.com/dillonzq/LoveIt"
-        title = "GitHub"
+        url = "/"
+        title = "GitLab"
     [languages.zh-cn.params]
       [languages.zh-cn.params.search]
         enable = true
@@ -872,8 +883,8 @@ baseURL = ""
         [languages.zh-cn.params.home.profile]
           enable = true
           gravatarEmail = ""
-          avatarURL = "/images/avatar.png"
-          title = ""
+          avatarURL = "/images/profile.jpg"
+          title = "Hugo Front-End Developer"
           subtitle = "一个简洁、优雅且高效的 Hugo 主题"
           typeit = true
           social = true

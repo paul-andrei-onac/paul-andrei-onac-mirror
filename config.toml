@@ -9,7 +9,7 @@ themesDir = ""
 
 # website title
 # 网站标题
-title = "Paul Andrei Onac"
+title = "Hugo Front-End Developer"
 
 [module]
   [module.hugoVersion]

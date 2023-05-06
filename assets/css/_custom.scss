@@ -2,3 +2,17 @@
 // Custom style
 // 自定义样式
 // ==============================
+
+@media print {
+  header {
+    display: none !important;
+  }
+
+  .page {
+    width: 100% !important;
+  }
+
+  footer {
+    display: none;
+  }
+}

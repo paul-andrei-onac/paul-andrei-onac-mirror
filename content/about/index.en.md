@@ -1,9 +1,9 @@
 ---
-title: "About LoveIt"
+title: "About Me"
 date: 2019-08-02T11:04:49+08:00
 draft: false
-description: "About LoveIt"
-images: ["/Apple-Devices-Preview.png"]
+description: "About Me"
+images: ["/images/profile.jpg"]
 
 lightgallery: true
 
@@ -19,82 +19,104 @@ math:
 [![GitHub forks](https://img.shields.io/github/forks/dillonzq/LoveIt?style=social)](https://github.com/dillonzq/LoveIt/fork)
 {{< /style >}}
 
-> [:(far fa-kiss-wink-heart fa-fw): LoveIt](https://github.com/dillonzq/LoveIt) is a **clean**, **elegant** but **advanced** blog theme for [Hugo](https://gohugo.io/) developed by {{< person "https://dillonzq.com/" Dillon "author of the LoveIt theme" "/Dillon.png" >}}.
->
-> It is based on the original [LeaveIt Theme](https://github.com/liuzc/LeaveIt) and [KeepIt Theme](https://github.com/Fastbyte01/KeepIt).
+> {{< person "https://paul-andrei-onac.ro/" Andrei "Front-End Developer" "/images/profile.jpg" >}} 
+> [:(far fa-kiss-wink-heart fa-fw):](https://paul-andrei-onac.ro/) is a **Front-End Developer** that lives in Bucharest, Romania. 
+> 
+> Objective: Seek to expand my knowledge and experience in Web Development.
+> 
+> Key qualities: **perseverance**, **motivation** and **trustworthy**. 
 
-![Hugo Theme LoveIt](/images/Apple-Devices-Preview.png "Hugo Theme LoveIt")
+## Experience
 
-## Features
+### Front-End Developer - Welink
+Mar 2022 - Present · Full time ·
+Bucharest, Romania · On-site
 
-### Performance and SEO
+* :(fas fa-rocket fa-fw): Enhanced user experience using JavaScript and accomplish webpage objectives by creating site structure with HTML5 Boilerplates, navigation, animations, page optimization, and graphics integration using OOCSS and SASS in accordance with Web Standards W3C.
+* :(fab fa-google fa-fw): Created Responsive UI/UX Mobile First Approach using SASS preprocessor, using Media Breakpoints or Media Queries alongside with libraries such as Bootstrap 4 and 5, and integrated CSS Flexbox and Grid System.
+* :(far fa-chart-bar fa-fw): Participated in development of a well responsive web application using Vue.js 3 Framework and JavaScript in conjunction with semantic HTML5, CSS3 with SASS Preprocessor and JSON for structured data.
+* :(fas fa-chart-column fa-fw): Built Themes, Responsive Websites and Landing Pages using Hugo Framework.
+* :(fab fa-yandex-international fa-fw): Maintaining an organized workflow using Version Control (git) and documented UI best practices and code standards.
+* :(fas fa-sitemap fa-fw): Developed web UI/UX through wireframes and Lo-Fi Prototypes using Figma, also the User Flow of the App or Website using FigJam.
+* :(fas fa-tachometer-alt fa-fw): Implemented Open Graph Protocol for rich object in social graph. Used Schema.org Markup to structure JSON-LD data for SEO.
 
-* :(fas fa-rocket fa-fw): Optimized for **performance**: [99]/[100] on mobile and [100]/[100] on desktop in [Google PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights)
-* :(fab fa-searchengin fa-fw): Optimized SEO performance with a correct **SEO SCHEMA** based on JSON-LD
-* :(fab fa-google fa-fw): **[Google Analytics](https://analytics.google.com/analytics)** supported
-* :(far fa-chart-bar fa-fw): **[Fathom Analytics](https://usefathom.com/)** supported
-* :(fas fa-chart-column fa-fw): **[Plausible Analytics](https://plausible.io/)** supported
-* :(fab fa-yandex-international fa-fw): **[Yandex Metrica](https://metrica.yandex.com/)** supported
-* :(fas fa-sitemap fa-fw): Search engine **verification** supported (Google, Bind, Yandex and Baidu)
-* :(fas fa-tachometer-alt fa-fw): **CDN** for third-party libraries supported
-* :(fas fa-cloud-download-alt fa-fw): Automatically converted images with **Lazy Load** by [lazysizes](https://github.com/aFarkas/lazysizes)
+Skills: SASS · Hugo · JavaScript · Bootstrap · Front-End Development · Responsive Web Design · Front-end Design · Interfaces · Git · Version Control · Gitlab · Web Standards · OOSASS · Cascading Style Sheets (CSS) · CSS Flexbox · CSS3 · HTML5 · HTML · Search Engine Optimization (SEO) · Web Crawling · npm · Design · Web Applications · Vue.js · Figma (Software) · Adobe Illustrator · Adobe Photoshop · User Interface Design · User Experience (UX) · JSON · Webpack · Laravel · Agile Methodologies · Scrum
 
-### Appearance and Layout
+### Wordpress Developer - Lucian & Partners
+Jan 2022 - Mar 2022 · Full-time ·
+Bucharest, Romania · On-site
 
-* :(fas fa-mobile-screen fa-fw): **[Desktop]/[Mobile] responsive** layout
-* :(fas fa-circle-half-stroke fa-rotate-180 fa-fw): **[Light]/[Dark]** mode
-* :(fas fa-layer-group fa-fw): Globally consistent **design language**
-* :(fas fa-ellipsis-h fa-fw): **Pagination** supported
-* :(far fa-list-alt fa-fw): Easy-to-use and self-expanding **table of contents**
-* :(fas fa-language fa-fw): **Multilanguage** supported and i18n ready
-* :(fab fa-css3-alt fa-fw): Beautiful **CSS animation**
+* :(fas fa-mobile-screen fa-fw):  Web Development (Woo-Commerce, Corporate, Business, Landing pages) with WordPress CMS + HTML + CSS + Bootstrap + JavaScript Knowledge
+* :(fas fa-circle-half-stroke fa-rotate-180 fa-fw): Created, implemented and monitored web pages, plugins and functionality. Finding and repairing bugs for continuous improvement
+* :(fas fa-layer-group fa-fw): Enhanced user experience and accomplish webpage objectives by creating site structure, navigation, page optimization and graphics integration.
+* :(fas fa-ellipsis-h fa-fw): Responded to and corrected issues preventing business or customer use of site or features
+* :(far fa-list-alt fa-fw): MySQL and cPanel integration
+* :(fas fa-language fa-fw): SEO Analysis, Link Building, Internal On-Page Optimization, Social promotion campaigns
 
-### Social and Comment Systems
+Skills: HTML · Search Engine Optimization (SEO) · WordPress
 
-* :(far fa-user fa-fw): **Gravatar** supported by [Gravatar](https://gravatar.com)
-* :(fas fa-user-circle fa-fw): Local **Avatar** supported
-* :(far fa-id-card fa-fw): Up to **73** social links supported
-* :(fas fa-share-square fa-fw): Up to **24** share sites supported
-* :(far fa-comment fa-fw): **Disqus** comment system supported by [Disqus](https://disqus.com)
-* :(far fa-comment-dots fa-fw): **Gitalk** comment system supported by [Gitalk](https://github.com/gitalk/gitalk)
-* :(far fa-comment-alt fa-fw): **Valine** comment system supported by [Valine](https://valine.js.org/)
-* :(far fa-comments fa-fw): **Facebook comments** system supported by [Facebook](https://developers.facebook.com/docs/plugins/comments/)
-* :(fas fa-comment fa-fw): **Telegram comments** system supported by [Comments](https://comments.app/)
-* :(fas fa-comment-dots fa-fw): **Commento** comment system supported by [Commento](https://commento.io/)
-* :(fas fa-comment-alt fa-fw): **utterances** comment system supported by [utterances](https://utteranc.es/)
-* :(fas fa-comments fa-fw): **giscus** comment system supported by [giscus](https://giscus.app/)
+### Web Developer - Freelancer
+Nov 2019 - Jan 2021 ·
+Remote
 
-### Extended Features
+* :(far fa-user fa-fw): Web Development (Woo-Comerce, Corporate, Personal) with WordPress CMS + HTML + CSS + Bootstrap
+* :(fas fa-user-circle fa-fw): Website Design based on templates submitted by the client or created from scratch
+* :(far fa-id-card fa-fw): Creating and Designing Social Media Content with Adobe Photoshop and Premiere Pro
+* :(fas fa-share-square fa-fw): Content Promotion using Facebook ADS
+* :(far fa-comment fa-fw): Create and manage Google My Business + Google Analytics
+* :(far fa-comment-dots fa-fw): MySQL and cPanel integration
+* :(far fa-comment-alt fa-fw): SEO Analysis, Link Building, Internal On-Page Optimization, Social promotion campaigns
 
-* :(fas fa-search fa-fw): **Search** supported by [Lunr.js](https://lunrjs.com/) or [algolia](https://www.algolia.com/)
-* :(far fa-grin-tongue-wink fa-fw): **Twemoji** supported
-* :(fas fa-code fa-fw): Automatically **highlighting** code
-* :(far fa-copy fa-fw): **Copy code** to clipboard with one click
-* :(far fa-images fa-fw): **Images gallery** supported by [lightGallery](https://github.com/sachinchoolur/lightgallery)
-* :(fab fa-font-awesome fa-fw): Extended Markdown syntax for **[Font Awesome](https://fontawesome.com/) icons**
-* :(fas fa-superscript fa-fw): Extended Markdown syntax for **ruby annotation**
-* :(fas fa-percentage fa-fw): Extended Markdown syntax for **fraction**
-* :(fas fa-square-root-alt fa-fw): **Mathematical formula** supported by [$\KaTeX$](https://katex.org/)
-* :(fas fa-project-diagram fa-fw): **Diagrams** shortcode supported by [mermaid](https://github.com/mermaid-js/mermaid)
-* :(fas fa-chart-pie fa-fw): **Interactive data visualization** shortcode supported by [ECharts](https://echarts.apache.org/)
-* :(fas fa-map-marked-alt fa-fw): **Mapbox** shortcode supported by [Mapbox GL JS](https://docs.mapbox.com/mapbox-gl-js)
-* :(fas fa-music fa-fw): **Music player** shortcode supported by [APlayer](https://github.com/MoePlayer/APlayer) and [MetingJS](https://github.com/metowolf/MetingJS)
-* :(fab fa-bilibili fa-fw): **Bilibili player** shortcode
-* :(fas fa-note-sticky fa-fw): Kinds of **admonitions** shortcode
-* :(fab fa-css3 fa-fw): **Custom style** shortcode
-* :(fab fa-js-square fa-fw): **Custom script** shortcode
-* :(fas fa-i-cursor fa-fw): **Animated typing** supported by [TypeIt](https://typeitjs.com/)
-* :(fas fa-cookie-bite fa-fw): **Cookie consent banner** supported by [cookieconsent](https://github.com/osano/cookieconsent)
-* :(far fa-user-circle fa-fw): **Person** shortcode
-* ...
+Skills: Cascading Style Sheets (CSS) · HTML · Search Engine Optimization (SEO) · WordPress
 
-## License
+## Education
 
-LoveIt is licensed under the **MIT** license.
+### The Lower Danube" University
 
-Check the [LICENSE file](https://github.com/dillonzq/LoveIt/blob/master/LICENSE) for details.
+* :(fas fa-search fa-fw): Master's degree in Physiotherapy and Special Movements
+* :(far fa-grin-tongue-wink fa-fw): Sep 2018 - Jul 2020
+* :(fas fa-code fa-fw): Grade 10
 
-## Special Thanks
+### The Lower Danube" University
+
+* :(fas fa-search fa-fw): Bachelor's degree in Teacher Training Department, Psycho Pedagogical Study Program Level 1
+* :(far fa-grin-tongue-wink fa-fw): Mar 2014 - May 2017
+* :(fas fa-code fa-fw): Grade 10
+
+### The Lower Danube" University
+
+* :(fas fa-search fa-fw): Bachelor's degree in Advanced Physiotherapy
+* :(far fa-grin-tongue-wink fa-fw): Sep 2013 - Jul 2016
+* :(fas fa-code fa-fw): Grade 10
+
+## Licenses & certifications
+
+### Responsive Web Design
+
+* :(far fa-grin-tongue-wink fa-fw): freeCodeCamp
+* :(fas fa-code fa-fw): Issued Mar 2022
+
+Skills: WordPress · Cascading Style Sheets (CSS) · HTML · Responsive Web Design
+
+### Advanced Life Support
+
+* :(far fa-grin-tongue-wink fa-fw): Uniunea Nationala a Studentilor din Romania
+* :(fas fa-code fa-fw): Issued Aug 2014
+* :(fas fa-code fa-fw): Credential ID APSS/075/2014
+
+### Basic Life Support
+
+* :(far fa-grin-tongue-wink fa-fw): Uniunea Nationala a Studentilor din Romania
+* :(fas fa-code fa-fw): Issued Aug 2014
+* :(fas fa-code fa-fw): Credential ID APSS/075/2014
+
+### ECDL
+
+* :(far fa-grin-tongue-wink fa-fw): ECDL ROMANIA
+* :(fas fa-code fa-fw): Issued Mar 2012
+* :(fas fa-code fa-fw): Credential ID RO 102940
+
+## Skills
 
 Thanks to the authors of following resources included in the theme:
 

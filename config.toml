@@ -11,6 +11,8 @@ themesDir = ""
 # 网站标题
 title = "Hugo Front-End Developer"
 
+enableRobotsTXT = true
+
 [module]
   [module.hugoVersion]
     extended = true

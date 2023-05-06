@@ -41,5 +41,8 @@
   "bugs": {
     "url": "https://github.com/dillonzq/LoveIt/issues"
   },
-  "homepage": "https://github.com/dillonzq/LoveIt#readme"
+  "homepage": "https://github.com/dillonzq/LoveIt#readme",
+  "dependencies": {
+    "hugo-extended": "^0.111.3"
+  }
 }

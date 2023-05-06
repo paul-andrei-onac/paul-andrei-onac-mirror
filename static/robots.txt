@@ -61,4 +61,5 @@ Disallow: /
 User-agent: ZoominfoBot
 Disallow: /
 
+Host: {{ Permalink }}
 Sitemap: https://paul-andrei-onac.ro/sitemap.xml

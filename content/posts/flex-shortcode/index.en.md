@@ -12,8 +12,8 @@ resources:
 - name: "featured-image"
   src: "featured-image.jpg"
 
-tags: ["flex", "css"]
-categories: ["flex"]
+tags: ["Flex", "css"]
+categories: ["Flex"]
 
 lightgallery: true
 

@@ -1,4 +1,4 @@
-baseURL = "" 
+baseURL = "https://paul-andrei-onac.ro" 
 
 # theme
 theme = ""
@@ -14,6 +14,12 @@ enableRobotsTXT = true
   [module.hugoVersion]
     extended = true
     min = "0.62.0"
+
+# Author config
+[author]
+  name = "Paul Andrei Onac"
+  email = "onac.paul.andrei@gmail.com"
+  link = "mailto:onac.paul.andrei@gmail.com"
 
 [params]
   # site default theme ["auto", "light", "dark"]
@@ -64,7 +70,7 @@ enableRobotsTXT = true
     # whether to show the author
     author = true
     # site creation time
-    since = 2022
+    since = 2023
     # ICP info only in China (HTML format is supported)
     icp = ""
     # license info (HTML format is supported)
@@ -606,11 +612,11 @@ enableRobotsTXT = true
         title = ""
       [[languages.en.menu.main]]
         weight = 5
-        identifier = "about"
+        identifier = "cv"
         pre = ""
         post = ""
-        name = "About"
-        url = "/about/"
+        name = "CV"
+        url = "/cv/"
         title = ""
       [[languages.en.menu.main]]
         weight = 6
@@ -646,18 +652,11 @@ enableRobotsTXT = true
           social = true
           disclaimer = ""
       [languages.en.params.social]
-        GitHub = "xxxx"
-        Twitter = "xxxx"
-        Instagram = "xxxx"
-        Facebook = "xxxx"
-        Telegram = "xxxx"
-        Youtubelegacy = "xxxx"
-        Phone = "555-555-555"
-        Email = "xxxx@xxxx.com"
+        GitHub = "https://github.com/paul-andrei-onac"
+        Linkedin = "https://www.linkedin.com/in/paul-andrei-onac/"
+        GitLab = "https://github.com/paul-andrei-onac"
+        Email = "onac.paul.andrei@gmail.com"
         RSS = true
-        [languages.en.params.social.Mastodon]
-          id = "@xxxx"
-          prefix = "https://mastodon.technology/"
 
   [languages.ro]
     weight = 2
@@ -699,11 +698,11 @@ enableRobotsTXT = true
         title = ""
       [[languages.ro.menu.main]]
         weight = 5
-        identifier = "about"
+        identifier = "cv"
         pre = ""
         post = ""
-        name = "Despre"
-        url = "/about/"
+        name = "CV"
+        url = "/cv/"
         title = ""
       [[languages.ro.menu.main]]
         weight = 6
@@ -739,13 +738,8 @@ enableRobotsTXT = true
           social = true
           disclaimer = ""
       [languages.ro.params.social]
-        GitHub = "xxxx"
-        Weibo = "xxxx"
-        Steam = "xxxx"
-        Zhihu = "xxxx"
-        Douban = "xxxx"
-        Devto = "xxxx"
-        Bilibili = "xxxx"
-        Email = "xxxx@xxxx.com"
-        Phone = "555-555-555"
+        GitHub = "https://github.com/paul-andrei-onac"
+        Linkedin = "https://www.linkedin.com/in/paul-andrei-onac/"
+        GitLab = "https://github.com/paul-andrei-onac"
+        Email = "onac.paul.andrei@gmail.com"
         RSS = true

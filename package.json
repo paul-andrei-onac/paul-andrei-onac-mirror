@@ -20,15 +20,7 @@
   "scripts": {
     "hugo": "hugo",
     "dev": "rm -r public && hugo && hugo server --disableFastRender",
-    "preinstall": "npx npm-force-resolutions",
-    "babel": "npx babel src/js --out-file assets/js/theme.js",
-    "build": "npm run babel && hugo -v --source=exampleSite --themesDir ../.. --gc",
-    "build-lunr-segmentit": "browserify src/lib/lunr/lunr.segmentit.js -o assets/lib/lunr/lunr.segmentit.js -t babelify --presets @babel/preset-env",
-    "start": "npm run babel && hugo server --source=exampleSite --themesDir ../.. -D --disableFastRender",
-    "start-production": "npm run babel && hugo server --source=exampleSite --themesDir ../.. -D --disableFastRender -e production",
-    "check": "htmlproofer exampleSite/public --check-html --allow-hash-href --empty-alt-ignore --disable-external",
-    "copy": "rm -rf resources && cp -rf exampleSite/resources resources",
-    "prepare": "husky install"
+    "prod": "hugo --minify"
   },
   "repository": {
     "type": "git",

@@ -5,14 +5,14 @@ date: 2023-03-05T15:58:26+08:00
 lastmod: 2023-03-05T15:58:26+08:00
 draft: false
 author: "Andrei"
-authorLink: ""
-description: "Find out how to create and organize your content quickly and intuitively in LoveIt theme."
+authorLink: "https://paul-andrei-onac.ro"
+description: "This article shows the basic shorthand for flex property"
 images: []
 resources:
 - name: "featured-image"
-  src: "featured-image.jpg"
+  src: "featured-image.webp"
 
-tags: ["Flex", "css"]
+tags: ["Flex", "CSS"]
 categories: ["Flex"]
 
 lightgallery: true
@@ -23,6 +23,9 @@ math:
   enable: true
 ---
 
+This article shows the basic shorthand for flex property.
+
+<!--more-->
 
 ## Here are all the Flex properties.
 

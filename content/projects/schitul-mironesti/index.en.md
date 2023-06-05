@@ -18,10 +18,10 @@ categories: ["Projects"]
 lightgallery: true
 ---
 
-## Mănăstirea Calui
+## Schitul Mironești
 
 ### Proiect European
 
-"Mănăstirea Calui" is a captivating project I developed using the Hugo framework. This project showcases the mesmerizing beauty of a place called "Mănăstirea Calui." Through visually stunning designs and immersive content, visitors can explore the rich history, architectural marvels, and serene ambiance of this magnificent monastery. From its picturesque landscapes to its spiritual significance, "Mănăstirea Calui" project captures the essence of this enchanting destination, inviting users to embark on a virtual journey like no other.
+"Schitul Mironești" is a captivating project I developed using the Hugo framework. This project showcases the mesmerizing beauty of a place called "Schitul Mironești." Through visually stunning designs and immersive content, visitors can explore the rich history, architectural marvels, and serene ambiance of this magnificent monastery. From its picturesque landscapes to its spiritual significance, "Schitul Mironești" project captures the essence of this enchanting destination, inviting users to embark on a virtual journey like no other.
 
 [See the project](https://www.schitul-mironesti.ro/)

@@ -507,7 +507,7 @@ enableRobotsTXT = true
     guessSyntax = true
     lineNos = true
     lineNumbersInTable = true
-    # false is a necessary configuration (https://github.com/dillonzq/LoveIt/issues/158)
+    # false is a necessary configuration (https://github.com/issues/)
     noClasses = false
   # Goldmark is from Hugo 0.60 the default library used for Markdown
   [markup.goldmark]
@@ -624,7 +624,7 @@ enableRobotsTXT = true
         pre = "<i class='fab fa-gitlab fa-fw' aria-hidden='true'></i>"
         post = ""
         name = ""
-        url = ""
+        url = "https://gitlab.com/paul-andrei-onac"
         title = "GitLab"
     [languages.en.params]
       [languages.en.params.search]
@@ -652,9 +652,9 @@ enableRobotsTXT = true
           social = true
           disclaimer = ""
       [languages.en.params.social]
-        GitHub = "https://github.com/paul-andrei-onac"
-        Linkedin = "https://www.linkedin.com/in/paul-andrei-onac/"
-        GitLab = "https://github.com/paul-andrei-onac"
+        GitHub = "paul-andrei-onac"
+        Linkedin = "paul-andrei-onac/"
+        GitLab = "paul-andrei-onac"
         Email = "onac.paul.andrei@gmail.com"
         RSS = true
 
@@ -738,8 +738,8 @@ enableRobotsTXT = true
           social = true
           disclaimer = ""
       [languages.ro.params.social]
-        GitHub = "https://github.com/paul-andrei-onac"
-        Linkedin = "https://www.linkedin.com/in/paul-andrei-onac/"
-        GitLab = "https://github.com/paul-andrei-onac"
+        GitHub = "paul-andrei-onac"
+        Linkedin = "paul-andrei-onac/"
+        GitLab = "paul-andrei-onac"
         Email = "onac.paul.andrei@gmail.com"
         RSS = true

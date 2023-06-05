@@ -1,6 +1,6 @@
 {
-  "name": "loveit-src",
-  "version": "0.2.0",
+  "name": "paul-andrei-onac",
+  "version": "0.3.0",
   "description": "LoveIt theme source file",
   "private": true,
   "devDependencies": {
@@ -35,5 +35,6 @@
   "bugs": {
     "url": "https://gitlab.com/paul-andrei-onac/paul-andrei-onac/issues"
   },
-  "homepage": "https://gitlab.com/paul-andrei-onac/paul-andrei-onac#readme"
+  "homepage": "https://gitlab.com/paul-andrei-onac/paul-andrei-onac#readme",
+  "main": "index.js"
 }

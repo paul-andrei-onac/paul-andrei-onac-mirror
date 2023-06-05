@@ -608,7 +608,7 @@ enableRobotsTXT = true
         pre = ""
         post = ""
         name = "Projects"
-        url = "/categories/projects/"
+        url = "/projects/"
         title = ""
       [[languages.en.menu.main]]
         weight = 5
@@ -694,7 +694,7 @@ enableRobotsTXT = true
         identifier = "projects"
         pre = ""
         name = "Proiecte"
-        url = "/categories/projects/"
+        url = "/projects/"
         title = ""
       [[languages.ro.menu.main]]
         weight = 5

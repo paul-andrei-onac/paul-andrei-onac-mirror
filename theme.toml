@@ -1,6 +1,6 @@
-name = "LoveIt2"
+name = "Paul Andrei Onac"
 license = "MIT"
-licenselink = "https://github.com/dillonzq/LoveIt/blob/master/LICENSE"
+licenselink = "https://gitlab.com/paul-andrei-onac/paul-andrei-onac/-/blob/master/LICENSE"
 description = "A Clean, Elegant but Advanced Hugo Theme for Hugo."
 
 homepage = "https://hugoloveit.com"
@@ -27,7 +27,7 @@ min_version = "0.62.0"
 
 [author]
   name = "Dillon"
-  homepage = "https://dillonzq.com/"
+  homepage = "https://paul-andrei-onac.ro/"
 
 [original]
   name = "Fastbyte01"

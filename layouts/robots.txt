@@ -1,9 +1,21 @@
-User-agent: *
+# Google Bot
+User-agent: Googlebot
+Allow: /
+Allow: */png/*
+Allow: */jpg/*
+Allow: */gif/*
+Allow: */js/*
+Allow: */css/*
 
-Disallow: /images/
-Disallow: /js/
-Disallow: /css/
+Disallow: /search/
+Disallow: /tags/
+Disallow: /ro/tags/
+Disallow: /categories/
+Disallow: /ro/categories/
 
+Disallow: /ro/*
+
+# Other User Agents
 User-agent: MJ12bot
 Disallow: /
 

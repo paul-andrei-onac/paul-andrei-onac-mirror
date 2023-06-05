@@ -24,16 +24,16 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dillonzq/LoveIt.git"
+    "url": "git+https://gitlab.com/paul-andrei-onac/paul-andrei-onac.git"
   },
   "keywords": [
     "hugo",
     "theme"
   ],
-  "author": "Dillon",
+  "author": "Paul Andrei Onac",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/dillonzq/LoveIt/issues"
+    "url": "https://gitlab.com/paul-andrei-onac/paul-andrei-onac/issues"
   },
-  "homepage": "https://github.com/dillonzq/LoveIt#readme"
+  "homepage": "https://gitlab.com/paul-andrei-onac/paul-andrei-onac#readme"
 }

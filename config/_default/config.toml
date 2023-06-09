@@ -441,7 +441,7 @@ enableRobotsTXT = true
 
   # Site verification code for Google/Bing/Yandex/Pinterest/Baidu
   [params.verification]
-    google = ""
+    google = "WAkNI6lv32PEtMtdI72TOTR8oldAGTCReezJ9qokKUk"
     bing = ""
     yandex = ""
     pinterest = ""

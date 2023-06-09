@@ -8,7 +8,11 @@ themesDir = ""
 # website title
 title = "Hugo Front-End Developer"
 
+# whether to use robots.txt
 enableRobotsTXT = true
+
+# google analytics code [UA-XXXXXXXX-X]
+googleAnalytics = "GTM-NM226KC"
 
 [module]
   [module.hugoVersion]
@@ -456,10 +460,10 @@ enableRobotsTXT = true
 
   # Analytics config
   [params.analytics]
-    enable = false
+    enable = true
     # Google Analytics
     [params.analytics.google]
-      id = ""
+      id = "GTM-NM226KC"
       # whether to anonymize IP
       anonymizeIP = true
     # Fathom Analytics

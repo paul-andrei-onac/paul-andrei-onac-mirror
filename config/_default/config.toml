@@ -336,7 +336,7 @@ googleAnalytics = "GTM-NM226KC"
       [params.page.comment.disqus]
         enable = true
         # Disqus shortname to use Disqus in posts
-        shortname = "paulandreionac"
+        shortname = "https-paul-andrei-onac-ro"
       # Gitalk comment config (https://github.com/gitalk/gitalk)
       [params.page.comment.gitalk]
         enable = false

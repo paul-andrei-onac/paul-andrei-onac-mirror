@@ -21,6 +21,10 @@ toc:
   auto: false
 math:
   enable: true
+share:
+  enable: true
+comment:
+  enable: true
 ---
 
 This article shows the basic shorthand for flex property.

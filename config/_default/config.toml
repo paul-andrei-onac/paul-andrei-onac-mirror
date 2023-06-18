@@ -349,9 +349,9 @@ googleAnalytics = "GTM-NM226KC"
         enable = true
         appId = "VbcCCVuZtj23c368XhHP3HYl-MdYXbMMI"
         appKey = "Sx4Ard2BLzfnksV6GcqWnJ3S"
-        placeholder = "Comment"
+        placeholder = ""
         avatar = "mp"
-        meta= "meta"
+        meta= ""
         pageSize = 10
         # automatically adapt the current theme i18n configuration when empty
         lang = ""

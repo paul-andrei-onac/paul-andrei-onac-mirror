@@ -1,8 +1,8 @@
 ---
 weight: 2
 title: "Font Awesome - Mixin"
-date: 2023-03-05T15:58:26+08:00
-lastmod: 2023-03-05T15:58:26+08:00
+date: 2023-06-18T15:58:26+08:00
+lastmod: 2023-06-18T15:58:26+08:00
 draft: false
 author: "Andrei"
 authorLink: "https://paul-andrei-onac.ro"

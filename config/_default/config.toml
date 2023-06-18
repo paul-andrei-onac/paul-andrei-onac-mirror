@@ -334,7 +334,7 @@ googleAnalytics = "GTM-NM226KC"
       enable = true
       # Disqus comment config (https://disqus.com/)
       [params.page.comment.disqus]
-        enable = true
+        enable = false
         # Disqus shortname to use Disqus in posts
         shortname = "https-paul-andrei-onac-ro"
       # Gitalk comment config (https://github.com/gitalk/gitalk)
@@ -346,12 +346,12 @@ googleAnalytics = "GTM-NM226KC"
         clientSecret = ""
       # Valine comment config (https://github.com/xCss/Valine)
       [params.page.comment.valine]
-        enable = false
-        appId = ""
-        appKey = ""
-        placeholder = ""
+        enable = true
+        appId = "VbcCCVuZtj23c368XhHP3HYl-MdYXbMMI"
+        appKey = "Sx4Ard2BLzfnksV6GcqWnJ3S"
+        placeholder = "Comment"
         avatar = "mp"
-        meta= ""
+        meta= "meta"
         pageSize = 10
         # automatically adapt the current theme i18n configuration when empty
         lang = ""

@@ -21,6 +21,10 @@ toc:
   auto: false
 math:
   enable: true
+share:
+  enable: true
+comment:
+  enable: true
 ---
 
 This article shows how to use Font Awesome with mixins better.

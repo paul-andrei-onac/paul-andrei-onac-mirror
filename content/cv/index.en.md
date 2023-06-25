@@ -96,7 +96,7 @@ Field of Study: Physiotherapy
 
 * freeCodeCamp
 * Issued: Mar 2022
-* [Shod Credential](https://www.freecodecamp.org/certification/paul-andrei-onac/responsive-web-design)
+* [Show Credential](https://www.freecodecamp.org/certification/paul-andrei-onac/responsive-web-design)
 
 Skills: WordPress · Cascading Style Sheets (CSS) · HTML · Responsive Web Design
 
@@ -120,21 +120,22 @@ Skills: WordPress · Cascading Style Sheets (CSS) · HTML · Responsive Web Desi
 
 ## Skills
 
-Thanks to the authors of following resources included in the theme:
-
-* [SASS](https://sass-lang.com/)
-* [HUGO](https://gohugo.io/)
-* [JavaScript]()
-* [Bootstrap](https://getbootstrap.com/)
+{{< label >}}
 * [Front End Development]()
+* [SASS](https://sass-lang.com/)
 * [Responsive Web Design]()
+* [HUGO](https://gohugo.io/)
+* [Bootstrap](https://getbootstrap.com/)
+* [JavaScript Libraries]()
+* [JavaScript]()
 * [Interfaces]()
 * [Git](https://git-scm.com/)
 * [Version Control]()
 * [Gitlab](https://gitlab.com/)
 * [GitHub](https://github.com/)
 * [Web Standards](https://www.w3.org/standards/)
-* [OOSASS](https://sass-lang.com/)
+* [Web Performance]()
+* [Optimisation]()
 * [Cascading Style Sheets (CSS)]()
 * [CSS Flexbox]()
 * [CSS3]()
@@ -143,18 +144,22 @@ Thanks to the authors of following resources included in the theme:
 * [Search Engine Optimisation (SEO)]()
 * [Web Crawling]()
 * [Web Pages]()
+* [Web Analytics]()
 * [npm](https://www.npmjs.com/)
 * [Attention to Detail]()
 * [Design]()
+* [Front-End Design]()
 * [Web Design]()
 * [Wireframing]()
+* [User Flows]()
 * [Web Applications]()
+* [Vue.Js]()
 * [Figma](https://www.figma.com/)
 * [Adobe Ilustrator](https://www.adobe.com/)
 * [Adobe Photoshop](https://www.adobe.com/)
-* [User Interface Design]()
+* [User Interface Design (UI)]()
 * [User Experience (UX)]()
-* [Optimisation Skills]()
+* [Organisation Skills]()
 * [User Stories]()
 * [English]()
 * [Romanian]()
@@ -166,3 +171,4 @@ Thanks to the authors of following resources included in the theme:
 * [Agile Methodologies]()
 * [Scrum]()
 * [WordPress]()
+{{< /label >}}

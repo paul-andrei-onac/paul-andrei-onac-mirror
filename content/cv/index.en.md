@@ -11,6 +11,10 @@ math:
   enable: true
 ---
 
+{{< button >}}
+Print my CV
+{{</ button >}}
+
 > {{< person "https://paul-andrei-onac.ro/" Andrei "Front-End Developer" "/images/profile.jpg" >}} 
 > [:(far fa-kiss-wink-heart fa-fw):](https://paul-andrei-onac.ro/) is a **Front-End Developer** that lives in Bucharest, Romania. 
 > 

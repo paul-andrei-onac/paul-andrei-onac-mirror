@@ -18,8 +18,10 @@
     "segmentit": "^2.0.3"
   },
   "scripts": {
-    "hugo": "hugo",
-    "dev": "rm -r public && hugo && hugo server --disableFastRender",
+    "clean": "rm -rf public",
+    "build": "hugo",
+    "dev": "hugo server --watch --disableFastRender",
+    "watch": "hugo && hugo server --watch --disableFastRender",
     "prod": "hugo --minify"
   },
   "repository": {

@@ -1,4 +1,4 @@
-name = "Paul Andrei Onac"
+name = "Paul-Andrei Onac"
 license = "MIT"
 licenselink = "https://gitlab.com/paul-andrei-onac/paul-andrei-onac/-/blob/master/LICENSE"
 description = "A Clean, Elegant but Advanced Hugo Theme for Hugo."
@@ -26,7 +26,7 @@ features = [
 min_version = "0.62.0"
 
 [author]
-  name = "Paul Andrei Onac"
+  name = "Paul-Andrei Onac"
   homepage = "https://paul-andrei-onac.ro/"
 
 [original]

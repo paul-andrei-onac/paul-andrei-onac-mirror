@@ -38,7 +38,7 @@ googleAnalytics = "GTM-NM226KC"
   # website title for Open Graph and Twitter Cards
   title = "Paul-Andrei Onac"
   # website description for RSS, SEO, Open Graph and Twitter Cards
-  description = "Hello, I am Paul-Andrei Onac and I am a Hugo Front-End Developer. This is a HUGO blog post that offers information about specific CSS, HTML, JavaScript use cases."
+  description = "Hello, I am Paul-Andrei Onac and I am a Front-End Developer. This is a HUGO blog post that offers information about specific CSS, HTML, JavaScript use cases."
   # website images for Open Graph and Twitter Cards
   images = ['/images/profile.jpg']
 
@@ -101,7 +101,7 @@ googleAnalytics = "GTM-NM226KC"
   # App icon config
   [params.app]
     # optional site title override for the app when added to an iOS home screen or Android launcher
-    title = "Hugo Front-End Developer"
+    title = "Front-End Developer"
     # whether to omit favicon resource links
     noFavicon = false
     # modern SVG favicon to use in place of older style .png and .ico files
@@ -147,7 +147,7 @@ googleAnalytics = "GTM-NM226KC"
       # URL of avatar shown in home page
       avatarURL = ""
       # title shown in home page (HTML format is supported)
-      title = "Hugo Front-End Developer"
+      title = "Front-End Developer"
       # subtitle shown in home page (HTML format is supported)
       subtitle = "This is my cool site"
       # whether to use typeit animation for subtitle
@@ -650,9 +650,9 @@ googleAnalytics = "GTM-NM226KC"
           enable = true
           gravatarEmail = ""
           avatarURL = "/images/profile.jpg"
-          title = "Hugo Front-End Developer"
-          subtitle = "Hello, I am Andrei. I am a Front-End Developer."
-          typeit = true
+          title = "Front-End Developer"
+          subtitle = "Hello! I'm Andrei, nice to meet you. Please take a look around."
+          typeit = false
           social = true
           disclaimer = ""
       [languages.en.params.social]
@@ -736,8 +736,8 @@ googleAnalytics = "GTM-NM226KC"
           enable = true
           gravatarEmail = ""
           avatarURL = "/images/profile.jpg"
-          title = "Hugo Front-End Developer"
-          subtitle = "Salut, sunt Andrei. Sunt un Front-End Developer."
+          title = "Front-End Developer"
+          subtitle = "Salut! Sunt Andrei, încântat să te cunosc. Te rog să arunci o privire în jur."
           typeit = true
           social = true
           disclaimer = ""

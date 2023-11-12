@@ -6,6 +6,7 @@ Allow: */jpg/*
 Allow: */gif/*
 Allow: */js/*
 Allow: */css/*
+Allow: */webp/*
 
 Disallow: /search/
 Disallow: /tags/

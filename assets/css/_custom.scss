@@ -39,6 +39,16 @@
     display: none;
   }
 
+  body[theme=dark] {
+    .single {
+      color: black;
+      
+      .content strong {
+        color: black;
+      }
+    }
+  }
+
   .single {
     .labels {
       li {

@@ -25,21 +25,23 @@ Print my CV
 ## Experience
 
 ### Front-End Developer - Welink
-Mar 2022 - Present · Full time ·
+Mar 2022 - Present · Full time
+
 Bucharest, Romania · On-site
 
 * Enhanced user experience using JavaScript and accomplish webpage objectives by creating site structure with HTML5 Boilerplates, navigation, animations, page optimization, and graphics integration using OOCSS and SASS in accordance with Web Standards W3C.
-* Created Responsive UI/UX Mobile First Approach using SASS preprocessor, using Media Breakpoints or Media Queries alongside with libraries such as Bootstrap 4 and 5, and integrated CSS Flexbox and Grid System.
+* Created Responsive UI/UX Mobile First Approach using SASS preprocessor, using Media Breakpoints or Media Queries alongside with libraries such as Tailwind, Bootstrap 4 and 5, Bulma, Foundation, and integrated CSS Flexbox and Grid System.
 * Participated in development of a well responsive web application using Vue.js 3 Framework and JavaScript in conjunction with semantic HTML5, CSS3 with SASS Preprocessor and JSON for structured data.
-* Built Themes, Responsive Websites and Landing Pages using Hugo Framework.
+* Built Themes, Responsive Websites and Landing Pages using Hugo Framework, Astro, Nuxt 3, Shopify, WordPress and enhanced them with animations using GSAP (GreenShock Animations).
 * Maintaining an organized workflow using Version Control (git) and documented UI best practices and code standards.
-* Developed web UI/UX through wireframes and Lo-Fi Prototypes using Figma, also the User Flow of the App or Website using FigJam.
+* Developed web UI/UX through wireframes and Lo-Fi & Hi-Fi Prototypes using Figma, also the User Flow of the App or Website using FigJam.
 * Implemented Open Graph Protocol for rich object in social graph. Used Schema.org Markup to structure JSON-LD data for SEO.
 
-Skills: SASS · Hugo · JavaScript · Bootstrap · Front-End Development · Responsive Web Design · Front-end Design · Interfaces · Git · Version Control · Gitlab · Web Standards · OOSASS · Cascading Style Sheets (CSS) · CSS Flexbox · CSS3 · HTML5 · HTML · Search Engine Optimization (SEO) · Web Crawling · npm · Design · Web Applications · Vue.js · Figma (Software) · Adobe Illustrator · Adobe Photoshop · User Interface Design · User Experience (UX) · JSON · Webpack · Laravel · Agile Methodologies · Scrum
+**Skills:** SASS · Hugo · JavaScript · Bootstrap · Front-End Development · Responsive Web Design · Front-end Design · Interfaces · Git · Version Control · Gitlab · Web Standards · OOSASS · Cascading Style Sheets (CSS) · CSS Flexbox · CSS3 · HTML5 · HTML · Search Engine Optimization (SEO) · Web Crawling · npm · Design · Web Applications · Vue.js · Figma (Software) · Adobe Illustrator · Adobe Photoshop · User Interface Design · User Experience (UX) · JSON · Webpack · Laravel · Agile Methodologies · Scrum
 
 ### Wordpress Developer - Lucian & Partners
-Jan 2022 - Mar 2022 · Full-time ·
+Jan 2022 - Mar 2022 · Full-time
+
 Bucharest, Romania · On-site
 
 * Web Development (Woo-Commerce, Corporate, Business, Landing pages) with WordPress CMS + HTML + CSS + Bootstrap + JavaScript Knowledge
@@ -49,10 +51,11 @@ Bucharest, Romania · On-site
 * MySQL and cPanel integration
 * SEO Analysis, Link Building, Internal On-Page Optimization, Social promotion campaigns
 
-Skills: HTML · Search Engine Optimization (SEO) · WordPress
+**Skills:** HTML · Search Engine Optimization (SEO) · WordPress
 
 ### Web Developer - Freelancer
-Nov 2019 - Jan 2021 ·
+Nov 2019 - Jan 2021
+
 Remote
 
 * Web Development (Woo-Comerce, Corporate, Personal) with WordPress CMS + HTML + CSS + Bootstrap
@@ -63,7 +66,7 @@ Remote
 * MySQL and cPanel integration
 * SEO Analysis, Link Building, Internal On-Page Optimization, Social promotion campaigns
 
-Skills: Cascading Style Sheets (CSS) · HTML · Search Engine Optimization (SEO) · WordPress
+**Skills:** Cascading Style Sheets (CSS) · HTML · Search Engine Optimization (SEO) · WordPress
 
 ## Education
 

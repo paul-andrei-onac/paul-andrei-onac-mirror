@@ -20,11 +20,11 @@ Print my CV
 > 
 > Objective: Seek to expand my knowledge and experience in Web Development.
 > 
-> Key qualities: **perseverance**, **motivation** and **trustworthy**. 
+> Key qualities: **perseverance**, **motivation**, **trustworthy** and strong **teamwork** skills. 
 
 ## Experience
 
-### Front-End Developer - Welink
+### Frontend Developer - Welink
 Mar 2022 - Present · Full time
 
 Bucharest, Romania · On-site
@@ -39,27 +39,15 @@ Bucharest, Romania · On-site
 
 **Skills:** SASS · Hugo · JavaScript · Bootstrap · Front-End Development · Responsive Web Design · Front-end Design · Interfaces · Git · Version Control · Gitlab · Web Standards · OOSASS · Cascading Style Sheets (CSS) · CSS Flexbox · CSS3 · HTML5 · HTML · Search Engine Optimization (SEO) · Web Crawling · npm · Design · Web Applications · Vue.js · Figma (Software) · Adobe Illustrator · Adobe Photoshop · User Interface Design · User Experience (UX) · JSON · Webpack · Laravel · Agile Methodologies · Scrum
 
-### Wordpress Developer - Lucian & Partners
-Jan 2022 - Mar 2022 · Full-time
-
-Bucharest, Romania · On-site
-
-* Web Development (Woo-Commerce, Corporate, Business, Landing pages) with WordPress CMS + HTML + CSS + Bootstrap + JavaScript Knowledge
-* Created, implemented and monitored web pages, plugins and functionality. Finding and repairing bugs for continuous improvement
-* Enhanced user experience and accomplish webpage objectives by creating site structure, navigation, page optimization and graphics integration.
-* Responded to and corrected issues preventing business or customer use of site or features
-* MySQL and cPanel integration
-* SEO Analysis, Link Building, Internal On-Page Optimization, Social promotion campaigns
-
-**Skills:** HTML · Search Engine Optimization (SEO) · WordPress
-
 ### Web Developer - Freelancer
 Nov 2019 - Jan 2021
 
 Remote
 
-* Web Development (Woo-Comerce, Corporate, Personal) with WordPress CMS + HTML + CSS + Bootstrap
-* Website Design based on templates submitted by the client or created from scratch
+* Web Development (Woo-Commerce, Corporate, Business, Landing pages) with WordPress CMS + HTML + CSS + Bootstrap + JavaScript Knowledge
+* Created, implemented and monitored web pages, plugins and functionality. Finding and repairing bugs for continuous improvement
+* Enhanced user experience and accomplish webpage objectives by creating site structure, navigation, page optimization and graphics integration.
+* Responded to and corrected issues preventing business or customer use of site or features
 * Creating and Designing Social Media Content with Adobe Photoshop and Premiere Pro
 * Content Promotion using Facebook ADS
 * Create and manage Google My Business + Google Analytics
@@ -92,6 +80,11 @@ Field of Study: Physiotherapy
 * Grade 10
 
 ## Licenses & certifications
+
+### Webflow Experts Course
+
+* Webflow
+* Issued Mar 2024
 
 ### SEO Specialist
 
@@ -132,21 +125,22 @@ Skills: WordPress · Cascading Style Sheets (CSS) · HTML · Responsive Web Desi
 * [SASS](https://sass-lang.com/)
 * [Responsive Web Design]()
 * [HUGO](https://gohugo.io/)
+* [Astro](https://astro.build/)
+* [Nuxt](https://nuxt.com/)
+* [Tailwind](https://tailwindcss.com/)
+* [GreenSock Animation Platform (GSAP)](https://gsap.com/)
+* [Shopify](https://www.shopify.com/)
 * [Bootstrap](https://getbootstrap.com/)
 * [JavaScript Libraries]()
 * [JavaScript]()
 * [Interfaces]()
-* [Git](https://git-scm.com/)
-* [Version Control]()
+* [git](https://git-scm.com/)
 * [Gitlab](https://gitlab.com/)
 * [GitHub](https://github.com/)
 * [Web Standards](https://www.w3.org/standards/)
 * [Web Performance]()
 * [Optimisation]()
 * [Cascading Style Sheets (CSS)]()
-* [CSS Flexbox]()
-* [CSS3]()
-* [HTML5]()
 * [HTML]()
 * [Search Engine Optimisation (SEO)]()
 * [Web Crawling]()
@@ -168,8 +162,6 @@ Skills: WordPress · Cascading Style Sheets (CSS) · HTML · Responsive Web Desi
 * [User Experience (UX)]()
 * [Organisation Skills]()
 * [User Stories]()
-* [English]()
-* [Romanian]()
 * [Soft Skills]()
 * [Communication]()
 * [JSON]()

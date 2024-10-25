@@ -22,37 +22,53 @@ Print my CV
 > 
 > Key qualities: **perseverance**, **motivation**, **trustworthy** and strong **teamwork** skills. 
 
-## Experience
+## Work Experience
 
 ### Frontend Developer - Welink
 Mar 2022 - Present · Full time
 
 Bucharest, Romania · On-site
 
-* Enhanced user experience using JavaScript and accomplish webpage objectives by creating site structure with HTML5 Boilerplates, navigation, animations, page optimization, and graphics integration using OOCSS and SASS in accordance with Web Standards W3C.
-* Created Responsive UI/UX Mobile First Approach using SASS preprocessor, using Media Breakpoints or Media Queries alongside with libraries such as Tailwind, Bootstrap 4 and 5, Bulma, Foundation, and integrated CSS Flexbox and Grid System.
-* Participated in development of a well responsive web application using Vue.js 3 Framework and JavaScript in conjunction with semantic HTML5, CSS3 with SASS Preprocessor and JSON for structured data.
-* Built Themes, Responsive Websites and Landing Pages using Hugo Framework, Astro, Nuxt 3, Shopify, WordPress and enhanced them with animations using GSAP (GreenShock Animations).
-* Maintaining an organized workflow using Version Control (git) and documented UI best practices and code standards.
-* Developed web UI/UX through wireframes and Lo-Fi & Hi-Fi Prototypes using Figma, also the User Flow of the App or Website using FigJam.
+* Enhanced user experience using JavaScript and accomplish webpage objectives by creating site structure with HTML5 Boilerplates, navigation, animations, page optimization, and graphics integration using OOCSS and SASS in accordance with Web Standards W3C;
+* Created Responsive UI/UX Mobile First Approach using SASS preprocessor, using Media Breakpoints or Media Queries alongside with libraries such as Tailwind, Bootstrap 4 and 5, Bulma, Foundation, and integrated CSS Flexbox and Grid System;
+* Participated in development of a well responsive web application using Vue.js 3 Framework and JavaScript in conjunction with semantic HTML5, CSS3 with SASS Preprocessor and JSON for structured data;
+* Built Themes, Responsive Websites and Landing Pages using Hugo Framework, Astro, Nuxt 3, Shopify, WordPress and enhanced them with animations using GSAP (GreenShock Animations);
+* Maintaining an organized workflow using Version Control (git) and documented UI best practices and code standards;
+* Developed web UI/UX through wireframes and Lo-Fi & Hi-Fi Prototypes using Figma, also the User Flow of the App or Website using FigJam;
 * Implemented Open Graph Protocol for rich object in social graph. Used Schema.org Markup to structure JSON-LD data for SEO.
 
 **Skills:** SASS · Hugo · JavaScript · Bootstrap · Front-End Development · Responsive Web Design · Front-end Design · Interfaces · Git · Version Control · Gitlab · Web Standards · OOSASS · Cascading Style Sheets (CSS) · CSS Flexbox · CSS3 · HTML5 · HTML · Search Engine Optimization (SEO) · Web Crawling · npm · Design · Web Applications · Vue.js · Figma (Software) · Adobe Illustrator · Adobe Photoshop · User Interface Design · User Experience (UX) · JSON · Webpack · Laravel · Agile Methodologies · Scrum
+
+### WordPress Developer - LUCIAN & PARTNERS
+Jan 2022 - Mar 2022 · Full time
+
+Bucharest, Romania · On-site
+
+* Web Development (WooCommerce, Corporate, Business, Landing pages) with WordPress Platform + HTML + CSS + Bootstrap + PHP Knowledge + JavaScript Knowledge;
+* Created, implemented and monitored web pages, plugins and functionality. Finding and repairing bugs for continuous improvement;
+* Enhanced user experience and accomplish webpage objectives by creating site structure, navigation, page optimization and graphics integration;
+* Responded to and corrected issues preventing business or customer use of site or features;
+* MySQL and cPanel integration;
+* SEO Analysis, Link Building, Internal On-Page Optimization, Social promotion campaigns.
+
+**Skills:** HTML · Search Engine Optimization (SEO) · WordPress
 
 ### Web Developer - Freelancer
 Nov 2019 - Jan 2021
 
 Remote
 
-* Web Development (Woo-Commerce, Corporate, Business, Landing pages) with WordPress CMS + HTML + CSS + Bootstrap + JavaScript Knowledge
-* Created, implemented and monitored web pages, plugins and functionality. Finding and repairing bugs for continuous improvement
-* Enhanced user experience and accomplish webpage objectives by creating site structure, navigation, page optimization and graphics integration.
-* Responded to and corrected issues preventing business or customer use of site or features
-* Creating and Designing Social Media Content with Adobe Photoshop and Premiere Pro
-* Content Promotion using Facebook ADS
-* Create and manage Google My Business + Google Analytics
-* MySQL and cPanel integration
-* SEO Analysis, Link Building, Internal On-Page Optimization, Social promotion campaigns
+* Web Development (WooCommerce, Corporate, Personal) with WordPress Platform + HTML + CSS + Bootstrap + PHP Knowledge + JavaScript Knowledge;
+* Website Design based on templates submitted by the client or created from scratch:
+  - https://kinetoladomi.ro/
+  - https://gyhimobiliare.ro/
+  - https://kardians.ro/
+  - https://vinnoir.ro/
+* Creating and Designing Social Media Content with Adobe Photoshop and Premiere Pro;
+* Content Promotion using Facebook ADS;
+* Create and manage Google My Business + Google Analytics;
+* MySQL and cPanel integration;
+* SEO Analysis, Link Building, Internal On-Page Optimization, Social promotion campaigns.
 
 **Skills:** Cascading Style Sheets (CSS) · HTML · Search Engine Optimization (SEO) · WordPress
 
@@ -79,7 +95,7 @@ Field of Study: Physiotherapy
 * Sep 2013 - Aug 2016
 * Grade 10
 
-## Licenses & certifications
+## Licenses & Certifications
 
 ### Webflow Experts Course
 
@@ -98,7 +114,7 @@ Field of Study: Physiotherapy
 * Issued: Mar 2022
 * [Show Credential](https://www.freecodecamp.org/certification/paul-andrei-onac/responsive-web-design)
 
-Skills: WordPress · Cascading Style Sheets (CSS) · HTML · Responsive Web Design
+Skills: Cascading Style Sheets (CSS) · HTML · Responsive Web Design
 
 ### Advanced Life Support
 
@@ -117,6 +133,11 @@ Skills: WordPress · Cascading Style Sheets (CSS) · HTML · Responsive Web Desi
 * ECDL ROMANIA
 * Issued: Mar 2012
 * Credential ID: RO 102940
+
+## Courses
+
+* The Informal School of IT - Web Development (JavaScript)
+* Treehouse - Front End Web Development
 
 ## Skills
 

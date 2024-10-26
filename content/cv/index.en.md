@@ -116,18 +116,6 @@ Field of Study: Physiotherapy
 
 Skills: Cascading Style Sheets (CSS) · HTML · Responsive Web Design
 
-### Advanced Life Support
-
-* National Union of Romanian Students
-* Issued: Aug 2014
-* Credential ID: ALS/075/2014
-
-### Basic Life Support
-
-* National Union of Romanian Students
-* Issued: Aug 2014
-* Credential ID: BLS/075/2014
-
 ### ECDL Core Certificate
 
 * ECDL ROMANIA

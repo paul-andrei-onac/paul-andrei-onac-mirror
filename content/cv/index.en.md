@@ -3,7 +3,7 @@ title: "About Me"
 date: 2023-05-02T11:04:49+08:00
 draft: false
 description: "About Me"
-images: ["/images/profile.jpg"]
+images: ["/images/profile.png"]
 
 lightgallery: true
 
@@ -15,7 +15,7 @@ math:
 Print my CV
 {{</ button >}}
 
-> {{< person "https://paul-andrei-onac.ro/" Andrei "Front-End Developer" "/images/profile.jpg" >}} 
+> {{< person "https://paul-andrei-onac.ro/" Andrei "Front-End Developer" "/images/profile.png" >}} 
 > [:(far fa-kiss-wink-heart fa-fw):](https://paul-andrei-onac.ro/) is a **Front-End Developer** that lives in Bucharest, Romania. 
 > 
 > Objective: Seek to expand my knowledge and experience in Web Development.

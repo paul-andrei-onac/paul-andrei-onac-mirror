@@ -22,6 +22,8 @@ Print my CV
 > 
 > Key qualities: **perseverance**, **motivation**, **trustworthy** and strong **teamwork** skills. 
 
+<br>
+
 ## Work Experience
 
 ### Frontend Developer - Welink
@@ -72,28 +74,23 @@ Remote
 
 **Skills:** Cascading Style Sheets (CSS) · HTML · Search Engine Optimization (SEO) · WordPress
 
+<br>
+
 ## Education
 
-### The Lower Danube" University
-Field of Study: Sport Science and Physical Education
+### Master's degree in Physiotherapy at Home
+* "The Lower Danube" University
+* Field of Study: Sport Science and Physical Education
 
-* Master's degree in Physiotherapy at Home
-* Sep 2018 - Aug 2020
-* Grade 10
+### Undergraduate degree in Psycho-Pedagogical Study Program
+* "The Lower Danube" University
+* Field of Study: Physiotherapy
 
-### The Lower Danube" University
-Field of Study: Physiotherapy
+### Bachelor's degree in Physiotherapy and Special Movements
+* "The Lower Danube" University
+* Field of Study: Psychology
 
-* Undergraduate degree in Psycho-Pedagogical Study Program Level 1
-* Sep 2016 - Aug 2019
-* Grade 10
-
-### The Lower Danube" University
-Field of Study: Physiotherapy
-
-* Bachelor's degree in Physiotherapy and Special Movements
-* Sep 2013 - Aug 2016
-* Grade 10
+<br>
 
 ## Licenses & Certifications
 
@@ -122,10 +119,14 @@ Skills: Cascading Style Sheets (CSS) · HTML · Responsive Web Design
 * Issued: Mar 2012
 * Credential ID: RO 102940
 
+<br>
+
 ## Courses
 
 * The Informal School of IT - Web Development (JavaScript)
 * Treehouse - Front End Web Development
+
+<br>
 
 ## Skills
 

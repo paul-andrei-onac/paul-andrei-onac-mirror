@@ -1,4 +1,5 @@
 {{- define "title" }}{{ .Title }} - {{ .Site.Title }}{{ end -}}
+{{- define "body_classes" -}} {{ .Title | urlize }} {{- end -}}
 
 {{- define "content" -}}
     {{- $params := .Scratch.Get "params" -}}

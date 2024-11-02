@@ -13,7 +13,7 @@
         {{- partial "head/seo.html" . -}}
         {{ partial "google-tag-manager/gtm-head" . }}
     </head>
-    <body data-header-desktop="{{ .Site.Params.header.desktopMode }}" data-header-mobile="{{ .Site.Params.header.mobileMode }}">
+    <body class="{{- block "body_classes" . }}{{ end -}}" data-header-desktop="{{ .Site.Params.header.desktopMode }}" data-header-mobile="{{ .Site.Params.header.mobileMode }}">
         {{ partial "google-tag-manager/gtm-body" . }}
         
         {{- /* Check theme isDark before body rendering */ -}}

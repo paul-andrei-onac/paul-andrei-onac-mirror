@@ -1,6 +1,6 @@
 ---
 weight: 1
-title: "Integrating Hugo and Tailwind CSS"
+title: "How to integrate HUGO and Tailwind in 5 Steps"
 date: 2024-11-24T15:58:26+08:00
 lastmod: 2023-11-24T15:58:26+08:00
 draft: false
@@ -27,19 +27,19 @@ comment:
   enable: true
 ---
 
-Hugo, the blazing-fast static site generator, and Tailwind CSS, the utility-first CSS framework, are a powerful duo for building modern, responsive websites. This guide will walk you through the step-by-step process of integrating Hugo with Tailwind, ensuring your site is both fast and beautiful.
+HUGO, the blazing-fast static site generator, and Tailwind, the utility-first CSS framework, are a powerful duo for building modern, responsive websites. This guide will walk you through the step-by-step process of integrating HUGO with Tailwind, ensuring your site is both fast and beautiful.
 
 ## Prerequisites
 
 Before we begin, make sure you have the following installed:
 
 - **Node.js** (for managing Tailwind and its dependencies)
-- **Hugo** (installed via Homebrew or your system’s package manager)
-- A basic understanding of Hugo and CSS concepts
+- **HUGO** (installed via Homebrew or your system’s package manager)
+- A basic understanding of HUGO and CSS concepts
 
-## **Step 1:** Set Up a New Hugo Project
+## **Step 1:** Set Up a New HUGO Project
 
-Start by creating a new Hugo project. Run the following command in your Git Bash:
+Start by creating a new HUGO project. Run the following command in your Git Bash:
 
 ```bash
 hugo new site website
@@ -53,7 +53,7 @@ rm -rf themes
 Then open the project with your favorite IDE.
 {{< /admonition >}}
 
-## **Step 2:** Configure npm and install Tailwind CSS
+## **Step 2:** Configure npm and install Tailwind
 
 Inside your project folder, initialize npm and install Tailwind along with its required dependencies:
 
@@ -62,7 +62,7 @@ npm init -y
 npm install -D tailwindcss postcss postcss-cli autoprefixer @fullhuman/postcss-purgecss@6.0.0
 ```
 
-## **Step 3:** Configure Tailwind in Your Hugo Project
+## **Step 3:** Configure Tailwind in Your HUGO Project
 
 ### Create the (`tailwind.config.js`) file
 
@@ -141,9 +141,9 @@ Then, replace the content with:
 @config "tailwind.config.js";
 ```
 
-## **Step 4:** Configure Hugo's Build Process
+## **Step 4:** Configure HUGO's Build Process
 
-To enable Tailwind integration, adjust Hugo’s configuration files:
+To enable Tailwind integration, adjust HUGO's configuration files:
 
 ### Directory Structure
 
@@ -187,7 +187,7 @@ target = '$1'
 
 ### Create the `module.toml` file
 
-Configure Hugo to mount assets and generate `hugo_stats.json`:
+Configure HUGO to mount assets and generate `hugo_stats.json`:
 
 ```toml
 [hugoVersion]
@@ -247,4 +247,4 @@ In `layouts/partials/head/css.html`, define how styles should be loaded:
 
 ## Conclusion
 
-By following these steps, you will have successfully integrated Tailwind CSS with Hugo, enabling a modern, responsive design system for your site. This setup will allow you to harness the power of Tailwind's utility-first approach while keeping your build process fast and efficient.
+By following these steps, you will have successfully integrated Tailwind with HUGO, enabling a modern, responsive design system for your site. This setup will allow you to harness the power of Tailwind's utility-first approach while keeping your build process fast and efficient.

@@ -146,8 +146,8 @@ Then, replace the content with:
 To enable Tailwind integration, adjust Hugo’s configuration files:
 
 ### Directory Structure
-{{< admonition type=warning title="Dont copy, just for reference" >}}
 
+{{< admonition type=warning title="Don't copy, it's just for reference" >}}
 ```
 ├── config
 │   ├── _default
@@ -155,6 +155,7 @@ To enable Tailwind integration, adjust Hugo’s configuration files:
 │   │   └── module.toml
 ```
 {{< /admonition >}}
+
 Generate the both configurations files using bash:
 
 ```bash

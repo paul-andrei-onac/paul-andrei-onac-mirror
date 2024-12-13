@@ -144,6 +144,8 @@ Skills: Cascading Style Sheets (CSS) · HTML · Responsive Web Design
 - https://pelviplus.ro/
 - https://zeppelinpub.ro/
 
+<br>
+
 ## Skills
 
 {{< label >}}

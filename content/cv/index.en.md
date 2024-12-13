@@ -136,13 +136,12 @@ Skills: Cascading Style Sheets (CSS) · HTML · Responsive Web Design
 - https://davincimedicalcenter.ro/
 - https://damelo.ro/
 - https://eve4climate.org/
-- https://www.greenfieldresidence.ro/baneasa/wellbeing/
+- https://greenfieldresidence.ro/baneasa/wellbeing/
 - https://jocuri.thefunnybrand.com/
 - https://ciocolax.ro/
 - https://digenzym.ro/
 - https://meltus.ro/
-- https://www.pelviplus.ro/
-- https://ultramag.webflow.io/
+- https://pelviplus.ro/
 - https://zeppelinpub.ro/
 
 ## Skills

@@ -128,6 +128,23 @@ Skills: Cascading Style Sheets (CSS) · HTML · Responsive Web Design
 
 <br>
 
+## Side Projects
+
+- https://lt.org/science/landing/what-is-climate/
+- https://lt.org/science/landing/climate-subsystems/
+- https://aslavitalsuplimente.ro/
+- https://davincimedicalcenter.ro/
+- https://damelo.ro/
+- https://eve4climate.org/
+- https://www.greenfieldresidence.ro/baneasa/wellbeing/
+- https://jocuri.thefunnybrand.com/
+- https://ciocolax.ro/
+- https://digenzym.ro/
+- https://meltus.ro/
+- https://www.pelviplus.ro/
+- https://ultramag.webflow.io/
+- https://zeppelinpub.ro/
+
 ## Skills
 
 {{< label >}}

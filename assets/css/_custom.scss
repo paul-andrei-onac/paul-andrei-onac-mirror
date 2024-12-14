@@ -29,12 +29,24 @@
     page-break-before: always;
   }
 
+  a[href]::after {
+    content: none !important;
+  }
+
   h2 {
     font-size: 1.5rem !important;
+
+    .header-mark {
+      display: none;
+    }
   }
 
   h3 {
     font-size: 1rem !important;
+  }
+
+  br {
+    display: none;
   }
 
   blockquote {

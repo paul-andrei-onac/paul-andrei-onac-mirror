@@ -24,4 +24,4 @@ lightgallery: true
 
 „Schitul Mironești” este un proiect captivant pe care l-am dezvoltat folosind framework-ul Hugo. Acest proiect prezintă frumusețea fascinantă a unui loc numit „Schitul Mironești”. Prin design-ul vizual uimitor și conținutul captivant, vizitatorii pot explora istoria bogată, minunile arhitecturale și atmosfera senină a acestei mănăstiri magnifice. De la peisajele sale pitorești până la semnificația spirituală, proiectul „Schitul Mironești” surprinde esența acestei destinații încântătoare, invitând utilizatorii să pornească într-o călătorie virtuală ca nimeni altul.
 
-[Vezi proiect](https://www.schitul-mironesti.ro/)
+[Vezi Proiectul](https://www.schitul-mironesti.ro/)

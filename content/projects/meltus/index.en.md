@@ -1,12 +1,12 @@
 ---
 weight: 1
-title: "Climate"
+title: "Meltus"
 date: 2024-08-01T21:57:40+08:00
 lastmod: 2024-08-01T16:45:40+08:00
 draft: false
 author: "Andrei"
 authorLink: "https://paul-andrei-onac.ro"
-description: "Climate Landing Page"
+description: "Meltus"
 images: []
 resources:
 - name: "featured-image"
@@ -18,8 +18,6 @@ categories: ["Projects"]
 lightgallery: true
 ---
 
-## Climate Landing Page
+![Meltus](./image.png)
 
-![Climate](./image.png)
-
-[See the project](https://lt.org/science/landing/what-is-climate/)
+[See the project](https://meltus.ro/)

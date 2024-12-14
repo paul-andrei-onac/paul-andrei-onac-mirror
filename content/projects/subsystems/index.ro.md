@@ -22,4 +22,4 @@ lightgallery: true
 
 ![Subsystems](./image.png)
 
-[See the project](https://lt.org/science/landing/climate-subsystems/)
+[Vezi Proiectul](https://lt.org/science/landing/climate-subsystems/)

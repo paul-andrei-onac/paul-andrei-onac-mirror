@@ -1,12 +1,12 @@
 ---
 weight: 1
-title: "Climate"
+title: "EVE"
 date: 2024-08-01T21:57:40+08:00
 lastmod: 2024-08-01T16:45:40+08:00
 draft: false
 author: "Andrei"
 authorLink: "https://paul-andrei-onac.ro"
-description: "Climate Landing Page"
+description: "Earth Virtualization Engines"
 images: []
 resources:
 - name: "featured-image"
@@ -18,8 +18,8 @@ categories: ["Projects"]
 lightgallery: true
 ---
 
-## Climate Landing Page
+## Earth Virtualization Engines
 
-![Climate](./image.png)
+![EVE](./image.png)
 
-[See the project](https://lt.org/science/landing/what-is-climate/)
+[See the project](https://eve4climate.org/)

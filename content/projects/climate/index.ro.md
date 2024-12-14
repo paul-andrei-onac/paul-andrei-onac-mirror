@@ -22,4 +22,4 @@ lightgallery: true
 
 ![CLimate](./image.png)
 
-[See the project](https://lt.org/science/landing/what-is-climate/)
+[Vezi Proiectul](https://lt.org/science/landing/what-is-climate/)

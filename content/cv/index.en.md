@@ -76,22 +76,6 @@ Remote
 
 <br>
 
-## Education
-
-### Master's degree in Physiotherapy at Home
-* "The Lower Danube" University
-* Field of Study: Sport Science and Physical Education
-
-### Undergraduate degree in Psycho-Pedagogical Study Program
-* "The Lower Danube" University
-* Field of Study: Physiotherapy
-
-### Bachelor's degree in Physiotherapy and Special Movements
-* "The Lower Danube" University
-* Field of Study: Psychology
-
-<br>
-
 ## Licenses & Certifications
 
 ### Webflow Experts Course
@@ -118,6 +102,22 @@ Skills: Cascading Style Sheets (CSS) · HTML · Responsive Web Design
 * ECDL ROMANIA
 * Issued: Mar 2012
 * Credential ID: RO 102940
+
+<br>
+
+## Education
+
+### Master's degree in Physiotherapy at Home
+* "The Lower Danube" University
+* Field of Study: Sport Science and Physical Education
+
+### Undergraduate degree in Psycho-Pedagogical Study Program
+* "The Lower Danube" University
+* Field of Study: Physiotherapy
+
+### Bachelor's degree in Physiotherapy and Special Movements
+* "The Lower Danube" University
+* Field of Study: Psychology
 
 <br>
 

@@ -23,6 +23,25 @@
 
 
 @media print {
+  #licenses--certifications,
+  #wordpress-developer---lucian--partners {
+    display: block;
+    page-break-before: always;
+  }
+
+  h2 {
+    font-size: 1.5rem !important;
+  }
+
+  h3 {
+    font-size: 1rem !important;
+  }
+
+  blockquote {
+    margin-top: -2in !important;
+    margin-top: -1cm !important;
+  }
+
   header {
     display: none !important;
   }

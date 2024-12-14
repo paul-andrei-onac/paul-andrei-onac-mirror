@@ -3,30 +3,24 @@
 {{- else -}}
     {{- $href := .Source -}}
     {{- $integrity := .Integrity -}}
-    {{- $resource := 0 -}}
-    {{- if $href | and (not (urls.Parse $href).Host) -}}
-        {{- $resource = resources.Get $href -}}
-    {{- end -}}
+    {{- $resource := resources.Get $href -}}
     {{- with .Content -}}
         {{- $resource = resources.FromString $.Path . -}}
     {{- end -}}
-    {{- if $resource -}}
-        {{- with .Template -}}
-            {{- $resource = $resource | resources.ExecuteAsTemplate . $.Context -}}
-        {{- end -}}
-        {{- with .ToCSS -}}
-            {{- $options := . | merge (dict "outputStyle" "compressed") -}}
-            {{- $resource = $resource | toCSS $options -}}
-        {{- end -}}
-        {{- if .Minify -}}
-            {{- $resource = $resource | minify -}}
-        {{- end -}}
-        {{- with .Fingerprint -}}
-            {{- $resource = $resource | fingerprint . -}}
-            {{- $integrity = $resource.Data.Integrity -}}
-        {{- end -}}
-        {{- $href = $resource.RelPermalink -}}
+    {{- with .Template -}}
+        {{- $resource = $resource | resources.ExecuteAsTemplate . $.Context -}}
     {{- end -}}
+    {{- with .ToCSS -}}
+        {{- $resource = $resource | toCSS . -}}
+    {{- end -}}
+    {{- if .Minify -}}
+        {{- $resource = $resource | minify -}}
+    {{- end -}}
+    {{- with .Fingerprint -}}
+        {{- $resource = $resource | fingerprint -}}
+        {{- $integrity = $resource.Data.Integrity -}}
+    {{- end -}}
+    {{- $href = $resource.RelPermalink -}}
     {{- $attrs := printf `href="%v"` $href -}}
     {{- if .Crossorigin -}}
         {{- $attrs = ` crossorigin="anonymous"` | add $attrs -}}

@@ -1,8 +1,7 @@
 ---
 weight: 1
 title: "Meltus"
-date: 2024-08-01T21:57:40+08:00
-lastmod: 2024-08-01T16:45:40+08:00
+date: 2023-11-01T21:57:40+08:00
 draft: false
 author: "Andrei"
 authorLink: "https://paul-andrei-onac.ro"

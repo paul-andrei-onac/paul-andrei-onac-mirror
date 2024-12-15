@@ -12,6 +12,10 @@
       padding: 0;
       margin: 0;
     }
+
+    p {
+      margin: 0 !important;
+    }
   
     li {
       background-color: $code-background-color-dark;
@@ -19,6 +23,30 @@
       border-radius: 6px;
     }
   }  
+}
+
+.about-me {
+  .content {
+    .labels {
+      ul {
+        padding-left: 0;
+      }
+
+      h3 {
+        font-size: 1.375rem;
+
+        &::before {
+          content: "|";
+          margin-right: .3125rem;
+          color: #2d96bd;
+        }
+      }
+    }
+
+    a[href=""] {
+      pointer-events: none;
+    }
+  }
 }
 
 

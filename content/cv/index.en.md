@@ -89,6 +89,11 @@ Remote
 * Issued: April 2023
 * Credential ID: SEO_2_2024
 
+### Front End Web Development
+
+* Treehouse
+* Issued: May 2023
+
 ### Responsive Web Design
 
 * freeCodeCamp
@@ -146,56 +151,79 @@ Skills: Cascading Style Sheets (CSS) · HTML · Responsive Web Design
 
 <br>
 
-## Skills
+## All Skills
+
+### Top Skills
 
 {{< label >}}
-* [Front End Development]()
-* [SASS](https://sass-lang.com/)
-* [Responsive Web Design]()
-* [HUGO](https://gohugo.io/)
-* [Astro](https://astro.build/)
-* [Nuxt](https://nuxt.com/)
-* [Tailwind](https://tailwindcss.com/)
-* [GreenSock Animation Platform (GSAP)](https://gsap.com/)
-* [Shopify](https://www.shopify.com/)
-* [Bootstrap](https://getbootstrap.com/)
-* [JavaScript Libraries]()
-* [JavaScript]()
-* [Interfaces]()
-* [git](https://git-scm.com/)
-* [Gitlab](https://gitlab.com/)
-* [GitHub](https://github.com/)
-* [Web Standards](https://www.w3.org/standards/)
-* [Web Performance]()
-* [Optimisation]()
-* [Cascading Style Sheets (CSS)]()
-* [HTML]()
-* [Search Engine Optimisation (SEO)]()
-* [Web Crawling]()
-* [Web Pages]()
-* [Web Analytics]()
-* [npm](https://www.npmjs.com/)
-* [Attention to Detail]()
-* [Design]()
-* [Front-End Design]()
-* [Web Design]()
-* [Wireframing]()
-* [User Flows]()
-* [Web Applications]()
-* [Vue.Js]()
-* [Figma](https://www.figma.com/)
-* [Adobe Ilustrator](https://www.adobe.com/)
-* [Adobe Photoshop](https://www.adobe.com/)
-* [User Interface Design (UI)]()
-* [User Experience (UX)]()
-* [Organisation Skills]()
-* [User Stories]()
-* [Soft Skills]()
-* [Communication]()
-* [JSON]()
-* [Webpack]()
-* [Laravel]()
-* [Agile Methodologies]()
-* [Scrum]()
-* [WordPress]()
+
+- [Front End Development]()
+- [Tailwind](https://tailwindcss.com/)
+- [SASS | SCSS](https://sass-lang.com/)
+- [Responsive Web Design]()
+- [HUGO Framework](https://gohugo.io/)
+- [Cross-Browser Compatibility](https://caniuse.com/)
+- [Communication Skills]()
+
+{{< /label >}}
+
+
+{{< label >}}
+
+### Skills
+
+- [Bootstrap](https://getbootstrap.com/)
+- [Bulma](https://bulma.io/)
+- [Foundation](https://get.foundation/)
+- [JavaScript]()
+- [Astro](https://astro.build/)
+- [Nuxt](https://nuxt.com/)
+- [git](https://git-scm.com/)
+- [npm | yarn](https://www.npmjs.com/)
+- [GitLab](https://gitlab.com/)
+- [GitHub](https://github.com/)
+- [HTML]()
+- [Cascading Style Sheets (CSS)]()
+- [WCAG | Web Accessibility](https://www.w3.org/WAI/standards-guidelines/wcag/)
+- [Search Engine Optimisation (SEO)]()
+- [Shopify](https://www.shopify.com/)
+- [WordPress](https://wordpress.com/)
+- [Webflow](https://webflow.com/)
+- [Laravel Blades](https://laravel.com/)
+- [Figma](https://www.figma.com/)
+- [Adobe Photoshop | Illustrator](https://www.adobe.com/)
+- [User Flows | Wireframing]()
+- [Web Design | User Interface Design (UI)]()
+- [Cloudflare](https://www.cloudflare.com/)
+- [Web Performance]()
+- [Web Standards](https://www.w3.org/standards/)
+- [Scrum | Agile | User Stories](https://www.scrum.org/)
+
+{{< /label >}}
+
+{{< label >}}
+
+### JavaScript Libraries
+
+- [AddToAny](https://www.addtoany.com/)
+- [AOS](https://michalsnik.github.io/aos/)
+- [Autoprefixer](https://github.com/postcss/autoprefixer)
+- [Babel](https://babeljs.io/)
+- [CookieConsent](https://cookieconsent.orestbida.com/)
+- [DataTables](https://datatables.net/)
+- [Foundation](https://get.foundation/)
+- [GreenSock Animation Platform (GSAP)](https://gsap.com/)
+- [Hammer.JS](https://hammerjs.github.io/)
+- [Plyr](https://plyr.io/)
+- [PostCSS](https://postcss.org/)
+- [Prettier](https://prettier.io/)
+- [PurgeCSS](https://purgecss.com/)
+- [Select2](https://select2.org/)
+- [Slick](https://kenwheeler.github.io/slick/)
+- [Swapy](https://swapy.tahazsh.com/)
+- [SweetAlert2](https://sweetalert2.github.io/)
+- [Swiper](https://swiperjs.com/)
+- [threeJs](https://threejs.org/)
+- [Vidstack](https://www.vidstack.io/)
+
 {{< /label >}}

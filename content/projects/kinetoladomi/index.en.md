@@ -5,7 +5,7 @@ date: 2019-08-05T21:57:40+08:00
 draft: false
 author: "Andrei"
 authorLink: "https://paul-andrei-onac.ro"
-description: "Kinetoladomi - Recuperare prin Kinetoterapie"
+description: "Kinetoladomi - Recovery with Physiotherapy"
 images: []
 resources:
 - name: "featured-image"
@@ -19,38 +19,38 @@ lightgallery: true
 
 ## Kinetoladomi
 
-### Kinetoladomi - Recuperare prin Kinetoterapie
+### Kinetoladomi - Recovery with Physiotherapy
 
 ![Kinetoladomi](./image.png)
 
-Kinetoladomi.ro is a website dedicated to promoting physical therapy and rehabilitation services. It serves as a platform to showcase the benefits of kinesiology and provides information about at-home therapy services, client programs, and expert guidance. The site aims to connect clients with professional therapists, offering convenience and personalized care.
+Kinetoladomi is a website dedicated to promoting physical therapy and rehabilitation services. It serves as a platform to showcase the benefits of kinesiology and provides information about at-home therapy services, client programs, and expert guidance. The site aims to connect clients with professional therapists, offering convenience and personalized care.
 
-### Tehnologii Utilizate:
+### Technologies Used:
 
-#### Platformă CMS și Blogging:
+#### CMS and Blogging Platform:
 
-- WordPress 6.7.1 pentru gestionarea conținutului și blogging.
+- WordPress 6.7.1 for content management and blogging.
 
-#### Îmbunătățiri Frontend:
+#### Frontend Enhancements:
 
-- Elementor 3.25.10 pentru construirea și personalizarea paginilor.
-- ElementsKit pentru widget-uri și funcționalități suplimentare pentru page builder.
-- Swiper pentru slider-e elegante și responsive.
-- LazySizes pentru încărcare întârziată, optimizând viteza paginilor.
+- Elementor 3.25.10 for building and customizing pages.
+- ElementsKit for additional widgets and features for the page builder.
+- Swiper for elegant and responsive sliders.
+- LazySizes for lazy loading, optimizing page speed.
 
-#### Optimizare CDN și Performanță:
+#### CDN and Performance Optimization:
 
-- jsDelivr ca CDN pentru livrarea rapidă a resurselor.
-- Autoptimize 3.1.12 pentru optimizarea scripturilor și stilurilor.
+- jsDelivr as the CDN for fast resource delivery.
+- Autoptimize 3.1.12 for script and style optimization.
 
-#### Instrumente SEO și Marketing:
+#### SEO and Marketing Tools:
 
-- Yoast SEO pentru îmbunătățirea optimizării pentru motoarele de căutare.
+- Yoast SEO for improved search engine optimization.
 
-#### Funcționalități Diverse:
+#### Miscellaneous Features:
 
-- Google Maps pentru servicii bazate pe locație.
-- Tawk.to pentru chat live și suport pentru clienți.
-- Open Graph pentru o partajare îmbunătățită pe rețelele sociale.
+- Google Maps for location-based services.
+- Tawk.to for live chat and customer support.
+- Open Graph for enhanced social media sharing.
 
 [See the project](https://kinetoladomi.ro/)

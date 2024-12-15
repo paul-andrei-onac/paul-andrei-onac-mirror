@@ -151,6 +151,7 @@ Skills: Cascading Style Sheets (CSS) · HTML · Responsive Web Design
 - https://meltus.ro/
 - https://pelviplus.ro/
 - https://zeppelinpub.ro/
+- https://kineto-acasa.ro/
 
 <br>
 

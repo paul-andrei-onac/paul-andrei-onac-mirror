@@ -9,11 +9,14 @@ lightgallery: true
 
 math:
   enable: true
+
+comment:
+  enable: false
 ---
 
-{{< button >}}
-Print my CV
-{{</ button >}}
+{{< buttonCV >}}
+Print CV
+{{</ buttonCV >}}
 
 > {{< person "https://paul-andrei-onac.ro/" Andrei "Front-End Developer" "/images/profile.png" >}} 
 > [:(far fa-kiss-wink-heart fa-fw):](https://paul-andrei-onac.ro/) is a **Front-End Developer** that lives in Bucharest, Romania. 

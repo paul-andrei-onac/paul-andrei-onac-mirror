@@ -128,14 +128,15 @@
   }
 }
 
-.btn {
-  &--print {
+:is(.print-button.print-button.print-button) {
+  &.btn--print {
     padding: 6px 12px;
     background-color: orange;
     color: white;
     border-radius: 6px;
     cursor: pointer;
     border: none;
+    font-size: 1.25rem;
 
     &:hover,
     &:active,

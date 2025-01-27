@@ -192,7 +192,8 @@ Configure HUGO to mount assets and generate `hugo_stats.json`:
 ```toml
 [hugoVersion]
 extended = true
-min = '0.124.1'
+min = '0.128.0'
+max = '0.142.0'
 
 [[mounts]]
 source = 'assets'
@@ -234,7 +235,7 @@ In `layouts/partials/head/css.html`, define how styles should be loaded:
 }}
 
 {{ $styles := resources.Get "css/main.scss" }}
-{{ $styles = $styles | resources.ExecuteAsTemplate "css/main.scss" . | resources.ToCSS $options | resources.PostCSS $PostCSS }}
+{{ $styles = $styles | resources.ExecuteAsTemplate "css/main.scss" . | css.Sass $options | css.PostCSS $PostCSS }}
 
 {{ if or (eq hugo.Environment "staging") (eq hugo.Environment "production") }}
 {{ $styles = $styles | minify | fingerprint "sha384" | resources.PostProcess }}

@@ -59,7 +59,7 @@ Inside your project folder, initialize npm and install Tailwind along with its r
 
 ```bash
 npm init -y
-npm install -D tailwindcss postcss postcss-cli autoprefixer @fullhuman/postcss-purgecss@6.0.0
+npm install -D tailwindcss@3.4.17 postcss@8.4.39 postcss-cli@11.0.0 autoprefixer@10.4.19 @fullhuman/postcss-purgecss@6.0.0
 ```
 
 ## **Step 3:** Configure Tailwind in Your HUGO Project

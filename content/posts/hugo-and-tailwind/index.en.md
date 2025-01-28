@@ -1,6 +1,6 @@
 ---
 weight: 1
-title: "How to integrate HUGO and Tailwind in 5 Steps"
+title: "How to integrate HUGO and Tailwind v3 in 5 Steps"
 date: 2024-11-24T15:58:26+08:00
 lastmod: 2023-11-24T15:58:26+08:00
 draft: false

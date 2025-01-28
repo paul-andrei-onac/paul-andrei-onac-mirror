@@ -6,7 +6,7 @@ lastmod: 2023-11-24T15:58:26+08:00
 draft: false
 author: "Andrei"
 authorLink: "https://paul-andrei-onac.ro"
-description: "How to use Font Awesome with mixins better"
+description: "How to integrate HUGO and Tailwind v3 in 5 Steps"
 images: []
 resources:
 - name: "featured-image"

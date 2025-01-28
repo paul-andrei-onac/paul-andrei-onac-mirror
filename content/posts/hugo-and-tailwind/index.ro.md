@@ -1,12 +1,12 @@
 ---
 weight: 1
-title: "How to integrate HUGO and Tailwind v3 in 5 Steps"
+title: "Cum să integrezi HUGO și Tailwind v3 în 5 pași"
 date: 2024-11-24T15:58:26+08:00
 lastmod: 2023-11-24T15:58:26+08:00
 draft: false
 author: "Andrei"
 authorLink: "https://paul-andrei-onac.ro"
-description: "How to use Font Awesome with mixins better"
+description: "Cum să integrezi HUGO și Tailwind v3 în 5 pași"
 images: []
 resources:
 - name: "featured-image"

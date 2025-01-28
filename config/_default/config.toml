@@ -17,7 +17,8 @@ googleAnalytics = ""
 [module]
   [module.hugoVersion]
     extended = true
-    min = "0.62.0"
+    min = "0.128.0"
+    max = "0.142.0"
 
 # Author config
 [author]
@@ -571,7 +572,6 @@ googleAnalytics = ""
   page = ["HTML", "MarkDown"]
   section = ["HTML", "RSS"]
   taxonomy = ["HTML", "RSS"]
-  taxonomyTerm = ["HTML"]
 
 # Multilingual
 # 多语言

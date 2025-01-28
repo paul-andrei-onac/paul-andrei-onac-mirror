@@ -1,4 +1,4 @@
-{{ if and (not .Site.IsServer) hugo.IsProduction }}
+{{ if and (not page.Site) hugo.IsProduction }}
 <!-- Google Tag Manager (noscript) -->
 <noscript><iframe src="https://www.googletagmanager.com/ns.html?id={{ site.Params.googleTagManager }}"
   height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>

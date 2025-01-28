@@ -35,6 +35,7 @@ Before we begin, make sure you have the following installed:
 
 - **Node.js** (for managing Tailwind and its dependencies)
 - **HUGO** (installed via Homebrew or your system’s package manager)
+- **SASS** Dart Sass to be more precise (installed globally)
 - A basic understanding of HUGO and CSS concepts
 
 ## **Step 1:** Set Up a New HUGO Project

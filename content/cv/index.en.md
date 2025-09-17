@@ -18,12 +18,22 @@ comment:
 Print CV
 {{</ buttonCV >}}
 
-> {{< person "https://paul-andrei-onac.ro/" Andrei "Front-End Developer" "/images/profile.png" >}} 
-> [:(far fa-kiss-wink-heart fa-fw):](https://paul-andrei-onac.ro/) is a **Front-End Developer** that lives in Bucharest, Romania. 
+> {{< person "https://paul-andrei-onac.ro/" Andrei "Frontend Developer" "/images/profile.png" >}} 
+> [:(far fa-kiss-wink-heart fa-fw):](https://paul-andrei-onac.ro/) is a **Frontend Developer** that lives in Bucharest, Romania. 
 > 
 > Objective: Seek to expand my knowledge and experience in Web Development.
 > 
 > Key qualities: **perseverance**, **motivation**, **trustworthy** and strong **teamwork** skills. 
+
+<br>
+
+## About 
+
+I am an entirely committed and passionate Frontend Developer with a solid foundation in knowledge of web applications and websites. With over three years of experience, I embrace my work with dedication and understanding for users’ needs.
+
+Being surrounded by technology for as long as I could remember, I took my first steps in web development with curiosity and eagerness to learn. My approach involves staying up-to-date with the emerging trends, frameworks and best practices, which allows me to design web projects that are both optimized for high performance and visually engaging.
+
+Besides my technical skills, I am a candid, diligent and self-taught person, who thrives when working in a team based on collaboration and union. I believe the best solutions come from people who share similar visions and work together as a cross-functional team.
 
 <br>
 
@@ -66,7 +76,6 @@ Remote
 * Web Development (WooCommerce, Corporate, Personal) with WordPress Platform + HTML + CSS + Bootstrap + PHP Knowledge + JavaScript Knowledge;
 * Website Design based on templates submitted by the client or created from scratch:
   - https://kinetoladomi.ro/
-  - https://gyhimobiliare.ro/
   - https://kardians.ro/
   - https://vinnoir.ro/
 * Creating and Designing Social Media Content with Adobe Photoshop and Premiere Pro;
@@ -115,10 +124,6 @@ Skills: Cascading Style Sheets (CSS) · HTML · Responsive Web Design
 
 ## Education
 
-### Master's degree in Physiotherapy at Home
-* "The Lower Danube" University
-* Field of Study: Sport Science and Physical Education
-
 ### Undergraduate degree in Psycho-Pedagogical Study Program
 * "The Lower Danube" University
 * Field of Study: Physiotherapy
@@ -126,6 +131,10 @@ Skills: Cascading Style Sheets (CSS) · HTML · Responsive Web Design
 ### Bachelor's degree in Physiotherapy and Special Movements
 * "The Lower Danube" University
 * Field of Study: Psychology
+
+### Master's degree in Physiotherapy at Home
+* "The Lower Danube" University
+* Field of Study: Sport Science and Physical Education
 
 <br>
 
@@ -140,18 +149,26 @@ Skills: Cascading Style Sheets (CSS) · HTML · Responsive Web Design
 
 - https://lt.org/science/landing/what-is-climate/
 - https://lt.org/science/landing/climate-subsystems/
+- https://weathergenerator.eu/
+- https://eve4climate.org/
+- https://marketplace.emag.ro/
+- https://player.lt.org/
 - https://aslavitalsuplimente.ro/
 - https://davincimedicalcenter.ro/
 - https://damelo.ro/
-- https://eve4climate.org/
 - https://greenfieldresidence.ro/baneasa/wellbeing/
 - https://jocuri.thefunnybrand.com/
+- https://nostrum.ro/
+- https://welink.ro/
+- https://ibusinus.ro/
 - https://ciocolax.ro/
 - https://digenzym.ro/
 - https://meltus.ro/
 - https://pelviplus.ro/
-- https://zeppelinpub.ro/
+- https://ultramagneziu.ro/
+- https://zeppelin.heavyhead.ro/
 - https://kineto-acasa.ro/
+- https://paul-andrei-onac.ro/
 
 <br>
 
@@ -162,9 +179,9 @@ Skills: Cascading Style Sheets (CSS) · HTML · Responsive Web Design
 {{< label >}}
 
 - [Front End Development]()
-- [Tailwind](https://tailwindcss.com/)
 - [SASS | SCSS](https://sass-lang.com/)
 - [Responsive Web Design]()
+- [Tailwind](https://tailwindcss.com/)
 - [HUGO Framework](https://gohugo.io/)
 - [Cross-Browser Compatibility](https://caniuse.com/)
 - [Communication Skills]()
@@ -182,20 +199,22 @@ Skills: Cascading Style Sheets (CSS) · HTML · Responsive Web Design
 - [JavaScript]()
 - [Astro](https://astro.build/)
 - [Nuxt](https://nuxt.com/)
+- [Strapi](https://strapi.io/)
+- [HTML]()
+- [Cascading Style Sheets (CSS)]()
+- [Docker](https://www.docker.com/)
+- [WCAG | Web Accessibility](https://www.w3.org/WAI/standards-guidelines/wcag/)
+- [Search Engine Optimisation (SEO)]()
+- [Figma](https://www.figma.com/)
+- [Adobe Photoshop | Illustrator](https://www.adobe.com/)
 - [git](https://git-scm.com/)
 - [npm | yarn](https://www.npmjs.com/)
 - [GitLab](https://gitlab.com/)
 - [GitHub](https://github.com/)
-- [HTML]()
-- [Cascading Style Sheets (CSS)]()
-- [WCAG | Web Accessibility](https://www.w3.org/WAI/standards-guidelines/wcag/)
-- [Search Engine Optimisation (SEO)]()
 - [Shopify](https://www.shopify.com/)
 - [WordPress](https://wordpress.com/)
 - [Webflow](https://webflow.com/)
 - [Laravel Blades](https://laravel.com/)
-- [Figma](https://www.figma.com/)
-- [Adobe Photoshop | Illustrator](https://www.adobe.com/)
 - [User Flows | Wireframing]()
 - [Web Design | User Interface Design (UI)]()
 - [Cloudflare](https://www.cloudflare.com/)
@@ -209,25 +228,30 @@ Skills: Cascading Style Sheets (CSS) · HTML · Responsive Web Design
 
 ### JavaScript Libraries
 
-- [AddToAny](https://www.addtoany.com/)
-- [AOS](https://michalsnik.github.io/aos/)
-- [Autoprefixer](https://github.com/postcss/autoprefixer)
-- [Babel](https://babeljs.io/)
-- [CookieConsent](https://cookieconsent.orestbida.com/)
-- [DataTables](https://datatables.net/)
-- [Foundation](https://get.foundation/)
 - [GreenSock Animation Platform (GSAP)](https://gsap.com/)
-- [Hammer.JS](https://hammerjs.github.io/)
-- [Plyr](https://plyr.io/)
-- [PostCSS](https://postcss.org/)
-- [Prettier](https://prettier.io/)
-- [PurgeCSS](https://purgecss.com/)
-- [Select2](https://select2.org/)
-- [Slick](https://kenwheeler.github.io/slick/)
-- [Swapy](https://swapy.tahazsh.com/)
-- [SweetAlert2](https://sweetalert2.github.io/)
 - [Swiper](https://swiperjs.com/)
-- [threeJs](https://threejs.org/)
+- [Slick](https://kenwheeler.github.io/slick/)
+- [Babel](https://babeljs.io/)
+- [Tailwind](https://tailwindcss.com/)
+- [Bootstrap](https://getbootstrap.com/)
+- [Prettier](https://prettier.io/)
+- [Autoprefixer](https://github.com/postcss/autoprefixer)
+- [PurgeCSS](https://purgecss.com/)
+- [PostCSS](https://postcss.org/)
 - [Vidstack](https://www.vidstack.io/)
+- [Plyr](https://plyr.io/)
+- [CookieConsent (Orestbida)](https://cookieconsent.orestbida.com/)
+- [FullCalendar](https://fullcalendar.io/)
+- [Select2](https://select2.org/)
+- [AOS](https://michalsnik.github.io/aos/)
+- [AddToAny](https://www.addtoany.com/)
+- [AddToCalendar](https://add-to-calendar-button.com/)
+- [DataTables](https://datatables.net/)
+- [SweetAlert2](https://sweetalert2.github.io/)
+- [Bulma](https://bulma.io/)
+- [Foundation](https://get.foundation/)
+- [Swapy](https://swapy.tahazsh.com/)
+- [threeJs](https://threejs.org/)
+- [Hammer.JS](https://hammerjs.github.io/)
 
 {{< /label >}}

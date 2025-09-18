@@ -1,8 +1,33 @@
 {
   "name": "paul-andrei-onac",
-  "version": "0.3.0",
-  "description": "LoveIt theme source file",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
   "private": true,
+  "scripts": {
+    "format": "prettier . --write",
+    "check": "prettier . --check",
+    "clean": "rm -rf public resources",
+    "build": "hugo -b $CF_PAGES_URL --minify",
+    "dev": "hugo server --watch --disableFastRender --ignoreCache --cleanDestinationDir --gc",
+    "development": "npm run dev",
+    "prod": "hugo -e production --minify --ignoreCache --cleanDestinationDir --gc",
+    "production": "npm run prod",
+    "lint": "npm run lint:markdown & npm run lint:javascript & npm run lint:style",
+    "lint:markdown": "markdownlint **/*.md -i node_modules",
+    "lint:javascript": "eslint assets/**/*.js themes/**/assets/**/*.js --no-error-on-unmatched-pattern",
+    "lint:style": "stylelint assets/**/*.scss themes/**/assets/**/*.scss --ignore-pattern /vendor/"
+  },
+  "author": "Paul-Andrei Onac",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://gitlab.com/paul-andrei-onac/paul-andrei-onac.git"
+  },
+  "homepage": "https://gitlab.com/paul-andrei-onac/paul-andrei-onac#readme",
+  "bugs": {
+    "url": "https://gitlab.com/paul-andrei-onac/paul-andrei-onac/issues"
+  },
   "devDependencies": {
     "@algolia/cli": "^4.0.8",
     "@babel/cli": "^7.17.10",
@@ -16,27 +41,5 @@
     "postcss": "^8.4.23",
     "postcss-cli": "^10.1.0",
     "segmentit": "^2.0.3"
-  },
-  "scripts": {
-    "clean": "rm -rf public",
-    "build": "hugo",
-    "dev": "hugo server --watch --disableFastRender",
-    "watch": "hugo && hugo server --watch --disableFastRender",
-    "prod": "hugo --minify"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://gitlab.com/paul-andrei-onac/paul-andrei-onac.git"
-  },
-  "keywords": [
-    "hugo",
-    "theme"
-  ],
-  "author": "Paul-Andrei Onac",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://gitlab.com/paul-andrei-onac/paul-andrei-onac/issues"
-  },
-  "homepage": "https://gitlab.com/paul-andrei-onac/paul-andrei-onac#readme",
-  "main": "index.js"
+  }
 }

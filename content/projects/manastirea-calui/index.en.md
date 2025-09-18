@@ -1,7 +1,7 @@
 ---
 weight: 1
 title: "Calui Monastery"
-date: 2023-03-21T21:57:40+08:00
+date: 2023-03-21
 draft: false
 author: "Andrei"
 authorLink: "https://paul-andrei-onac.ro"

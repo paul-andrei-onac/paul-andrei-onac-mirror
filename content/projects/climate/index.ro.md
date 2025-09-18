@@ -19,6 +19,6 @@ lightgallery: true
 
 ## Climate Landing Page
 
-![CLimate](./image.png)
+![Climate](/image.png)
 
 [Vezi Proiectul](https://lt.org/science/landing/what-is-climate/)

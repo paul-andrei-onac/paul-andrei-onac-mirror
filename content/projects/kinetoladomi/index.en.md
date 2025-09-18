@@ -1,7 +1,7 @@
 ---
 weight: 1
 title: "Kinetoladomi"
-date: 2019-08-05T21:57:40+08:00
+date: 2019-08-05
 draft: false
 author: "Andrei"
 authorLink: "https://paul-andrei-onac.ro"

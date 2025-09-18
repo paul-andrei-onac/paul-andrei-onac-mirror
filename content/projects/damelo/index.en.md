@@ -1,11 +1,11 @@
 ---
 weight: 1
-title: "EVE"
-date: 2024-03-15
+title: "Damelo"
+date: 2023-09-20
 draft: false
 author: "Andrei"
 authorLink: "https://paul-andrei-onac.ro"
-description: "Earth Virtualization Engines"
+description: "Damelo"
 images: []
 resources:
 - name: "featured-image"
@@ -17,8 +17,8 @@ categories: ["Projects"]
 lightgallery: true
 ---
 
-## Earth Virtualization Engines
+## Damelo
 
-![EVE](/image.png)
+![Damelo](./image.webp)
 
-[Vezi Proiectul](https://eve4climate.org/)
+[See the project](https://damelo.ro/)

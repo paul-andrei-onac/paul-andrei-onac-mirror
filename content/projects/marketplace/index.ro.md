@@ -1,11 +1,11 @@
 ---
 weight: 1
-title: "EVE"
-date: 2024-03-15
+title: "eMAG Marketplace"
+date: 2023-03-15
 draft: false
 author: "Andrei"
 authorLink: "https://paul-andrei-onac.ro"
-description: "Earth Virtualization Engines"
+description: "eMAG Marketplace"
 images: []
 resources:
 - name: "featured-image"
@@ -17,8 +17,8 @@ categories: ["Projects"]
 lightgallery: true
 ---
 
-## Earth Virtualization Engines
+## eMAG Marketplace
 
-![EVE](/image.png)
+![eMAG Marketplace](/image.png)
 
-[Vezi Proiectul](https://eve4climate.org/)
+[Vezi Proiectul](https://marketplace.emag.ro/)

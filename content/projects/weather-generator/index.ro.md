@@ -1,11 +1,11 @@
 ---
 weight: 1
-title: "EVE"
-date: 2024-03-15
+title: "Weather Generator"
+date: 2025-07-10
 draft: false
 author: "Andrei"
 authorLink: "https://paul-andrei-onac.ro"
-description: "Earth Virtualization Engines"
+description: "Weather Generator"
 images: []
 resources:
 - name: "featured-image"
@@ -17,8 +17,8 @@ categories: ["Projects"]
 lightgallery: true
 ---
 
-## Earth Virtualization Engines
+## Weather Generator
 
-![EVE](/image.png)
+![Weather Generator](/image.jpg)
 
-[Vezi Proiectul](https://eve4climate.org/)
+[Vezi Proiectul](https://weathergenerator.eu/)

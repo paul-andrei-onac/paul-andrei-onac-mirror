@@ -1,7 +1,7 @@
 ---
 weight: 1
 title: "Meltus"
-date: 2023-11-01T21:57:40+08:00
+date: 2023-11-01
 draft: false
 author: "Andrei"
 authorLink: "https://paul-andrei-onac.ro"
@@ -17,6 +17,6 @@ categories: ["Projects"]
 lightgallery: true
 ---
 
-![Meltus](./image.png)
+![Meltus](/image.png)
 
 [Vezi Proiectul](https://meltus.ro/)

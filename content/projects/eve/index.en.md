@@ -1,7 +1,7 @@
 ---
 weight: 1
 title: "EVE"
-date: 2024-03-15T21:57:40+08:00
+date: 2024-03-15
 draft: false
 author: "Andrei"
 authorLink: "https://paul-andrei-onac.ro"

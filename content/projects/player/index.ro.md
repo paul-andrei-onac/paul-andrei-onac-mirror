@@ -1,11 +1,11 @@
 ---
 weight: 1
-title: "EVE"
+title: "LT Player"
 date: 2024-03-15
 draft: false
 author: "Andrei"
 authorLink: "https://paul-andrei-onac.ro"
-description: "Earth Virtualization Engines"
+description: "LT Player"
 images: []
 resources:
 - name: "featured-image"
@@ -17,8 +17,8 @@ categories: ["Projects"]
 lightgallery: true
 ---
 
-## Earth Virtualization Engines
+## LT Player
 
-![EVE](/image.png)
+![LT Player](/image.png)
 
-[Vezi Proiectul](https://eve4climate.org/)
+[Vezi Proiectul](https://player.lt.org/)

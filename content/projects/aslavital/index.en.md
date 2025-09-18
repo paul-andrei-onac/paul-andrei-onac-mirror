@@ -1,11 +1,11 @@
 ---
 weight: 1
-title: "EVE"
-date: 2024-03-15
+title: "Aslavital"
+date: 2022-06-15
 draft: false
 author: "Andrei"
 authorLink: "https://paul-andrei-onac.ro"
-description: "Earth Virtualization Engines"
+description: "Aslavital"
 images: []
 resources:
 - name: "featured-image"
@@ -17,8 +17,8 @@ categories: ["Projects"]
 lightgallery: true
 ---
 
-## Earth Virtualization Engines
+## Aslavital
 
-![EVE](/image.png)
+![Aslavital](./image.jpg)
 
-[Vezi Proiectul](https://eve4climate.org/)
+[See the project](https://aslavitalsuplimente.ro/)

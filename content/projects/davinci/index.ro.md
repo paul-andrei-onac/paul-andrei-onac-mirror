@@ -1,11 +1,11 @@
 ---
 weight: 1
-title: "EVE"
-date: 2024-03-15
+title: "DaVinci"
+date: 2022-06-15
 draft: false
 author: "Andrei"
 authorLink: "https://paul-andrei-onac.ro"
-description: "Earth Virtualization Engines"
+description: "DaVinci"
 images: []
 resources:
 - name: "featured-image"
@@ -17,8 +17,8 @@ categories: ["Projects"]
 lightgallery: true
 ---
 
-## Earth Virtualization Engines
+## DaVinci
 
-![EVE](/image.png)
+![DaVinci](/image.jpg)
 
-[Vezi Proiectul](https://eve4climate.org/)
+[Vezi Proiectul](https://davincimedicalcenter.ro/)

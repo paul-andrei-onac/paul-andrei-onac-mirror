@@ -1,7 +1,7 @@
 ---
 weight: 1
 title: "Mironești Hermitage"
-date: 2023-03-10T21:57:40+08:00
+date: 2023-03-10
 draft: false
 author: "Andrei"
 authorLink: "https://paul-andrei-onac.ro"

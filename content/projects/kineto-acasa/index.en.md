@@ -1,7 +1,7 @@
 ---
 weight: 1
 title: "Physio Home"
-date: 2022-04-18T21:57:40+08:00
+date: 2022-04-18
 draft: false
 author: "Andrei"
 authorLink: "https://paul-andrei-onac.ro"

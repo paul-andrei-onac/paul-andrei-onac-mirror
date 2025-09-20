@@ -1,7 +1,7 @@
 ---
 weight: 1
 title: "Physio Home"
-date: 2022-04-18
+date: 2023-12-18
 draft: false
 author: "Andrei"
 authorLink: "https://paul-andrei-onac.ro"
@@ -21,7 +21,7 @@ lightgallery: true
 
 ### Physio Home - Recovery with Physiotherapy at Home
 
-![Physio Home](./image.png)
+![Physio Home](./image.jpeg)
 
 "Physio Home" is a project I developed using the Hugo framework. This site offers information and resources for home-based physical therapy, bringing essential services to users' homes. The responsive design and advanced features allow visitors to easily access the necessary information, contact professionals, and benefit from therapy services tailored to their needs.
 

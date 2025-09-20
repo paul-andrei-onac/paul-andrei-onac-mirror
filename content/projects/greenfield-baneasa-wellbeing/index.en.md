@@ -1,11 +1,11 @@
 ---
 weight: 1
-title: "EVE"
-date: 2024-06-15
+title: "Greenfield Baneasa Wellbeing"
+date: 2022-04-08
 draft: false
 author: "Andrei"
 authorLink: "https://paul-andrei-onac.ro"
-description: "Earth Virtualization Engines"
+description: "Greenfield Baneasa Wellbeing"
 images: []
 resources:
 - name: "featured-image"
@@ -17,8 +17,6 @@ categories: ["Projects"]
 lightgallery: true
 ---
 
-## Earth Virtualization Engines
+![Greenfield Baneasa Wellbeing](./image.jpg)
 
-![EVE](./image.png)
-
-[See the project](https://eve4climate.org/)
+[See the project](https://www.greenfieldresidence.ro/baneasa/wellbeing/)

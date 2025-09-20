@@ -1,7 +1,7 @@
 ---
 weight: 1
 title: "DaVinci"
-date: 2022-06-15
+date: 2022-05-15
 draft: false
 author: "Andrei"
 authorLink: "https://paul-andrei-onac.ro"
@@ -17,7 +17,7 @@ categories: ["Projects"]
 lightgallery: true
 ---
 
-## DaVinci
+## DaVinci Medical Center
 
 ![DaVinci](./image.jpg)
 

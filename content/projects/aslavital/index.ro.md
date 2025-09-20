@@ -17,8 +17,6 @@ categories: ["Projects"]
 lightgallery: true
 ---
 
-## Aslavital
-
 ![Aslavital](/image.jpg)
 
 [Vezi Proiectul](https://aslavitalsuplimente.ro/)

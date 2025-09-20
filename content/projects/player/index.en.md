@@ -1,11 +1,11 @@
 ---
 weight: 1
-title: "LT Player"
+title: "Custom Video Player"
 date: 2024-03-15
 draft: false
 author: "Andrei"
 authorLink: "https://paul-andrei-onac.ro"
-description: "LT Player"
+description: "Custom Video Player"
 images: []
 resources:
 - name: "featured-image"
@@ -19,6 +19,6 @@ lightgallery: true
 
 ## LT Player
 
-![LT Player](./image.png)
+![Custom Video Player](./image.png)
 
 [See the project](https://player.lt.org/)

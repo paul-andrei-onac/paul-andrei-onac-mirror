@@ -1,7 +1,7 @@
 ---
 weight: 1
 title: "Kineto Acasă"
-date: 2022-04-18
+date: 2023-12-18
 draft: false
 author: "Andrei"
 authorLink: "https://paul-andrei-onac.ro"
@@ -21,7 +21,7 @@ lightgallery: true
 
 ### Kineto Acasă - Recuperare prin Kinetoterapie la Domiciliu
 
-![Kineto Acasă](/image.png)
+![Kineto Acasă](/image.jpeg)
 
 "Kineto Acasă" este un proiect pe care l-am dezvoltat folosind framework-ul Hugo. Acest site oferă informații și resurse pentru terapia fizică la domiciliu, aducând un serviciu esențial în confortul casei utilizatorilor. Designul responsive și funcționalitățile avansate permit vizitatorilor să acceseze ușor informațiile necesare, să contacteze profesioniști și să beneficieze de servicii de terapie adaptate nevoilor lor.
 

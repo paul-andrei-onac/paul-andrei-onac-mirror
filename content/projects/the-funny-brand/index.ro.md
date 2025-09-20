@@ -1,11 +1,11 @@
 ---
 weight: 1
-title: "EVE"
-date: 2024-06-15
+title: "The Funny Brand"
+date: 2022-05-25
 draft: false
 author: "Andrei"
 authorLink: "https://paul-andrei-onac.ro"
-description: "Earth Virtualization Engines"
+description: "The Funny Brand"
 images: []
 resources:
 - name: "featured-image"
@@ -17,8 +17,6 @@ categories: ["Projects"]
 lightgallery: true
 ---
 
-## Earth Virtualization Engines
+![The Funny Brand](/image.jpg)
 
-![EVE](./image.png)
-
-[See the project](https://eve4climate.org/)
+[Vezi Proiectul](https://jocuri.thefunnybrand.com/)

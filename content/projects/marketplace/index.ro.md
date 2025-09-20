@@ -1,7 +1,7 @@
 ---
 weight: 1
 title: "eMAG Marketplace"
-date: 2023-03-15
+date: 2023-07-15
 draft: false
 author: "Andrei"
 authorLink: "https://paul-andrei-onac.ro"
@@ -16,8 +16,6 @@ categories: ["Projects"]
 
 lightgallery: true
 ---
-
-## eMAG Marketplace
 
 ![eMAG Marketplace](/image.png)
 

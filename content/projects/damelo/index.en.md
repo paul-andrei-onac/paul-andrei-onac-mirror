@@ -17,8 +17,6 @@ categories: ["Projects"]
 lightgallery: true
 ---
 
-## Damelo
-
 ![Damelo](./image.webp)
 
 [See the project](https://damelo.ro/)

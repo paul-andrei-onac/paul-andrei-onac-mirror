@@ -17,8 +17,6 @@ categories: ["Projects"]
 lightgallery: true
 ---
 
-## Weather Generator
-
 ![Weather Generator](./image.jpg)
 
 [See the project](https://weathergenerator.eu/)

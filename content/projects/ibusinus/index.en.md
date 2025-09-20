@@ -1,11 +1,11 @@
 ---
 weight: 1
-title: "EVE"
-date: 2024-06-15
+title: "Ibusinus"
+date: 2025-02-08
 draft: false
 author: "Andrei"
 authorLink: "https://paul-andrei-onac.ro"
-description: "Earth Virtualization Engines"
+description: "Ibusinus"
 images: []
 resources:
 - name: "featured-image"
@@ -17,8 +17,6 @@ categories: ["Projects"]
 lightgallery: true
 ---
 
-## Earth Virtualization Engines
+![Ibusinus](./image.jpg)
 
-![EVE](./image.png)
-
-[See the project](https://eve4climate.org/)
+[See the project](https://www.ibusinus.ro/)

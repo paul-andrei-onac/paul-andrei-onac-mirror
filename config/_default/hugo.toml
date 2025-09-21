@@ -17,8 +17,7 @@ googleAnalytics = ""
 [module]
   [module.hugoVersion]
     extended = true
-    min = "0.128.0"
-    max = "0.142.0"
+    min = "0.150.0"
 
 # Author config
 [author]
@@ -543,14 +542,14 @@ googleAnalytics = ""
 # Permalinks  (https://gohugo.io/content-management/urls/#permalinks)
 [Permalinks]
   # posts = ":year/:month/:filename"
-  posts = ":filename"
+  posts = ":contentbasename"
 
 # Privacy config (https://gohugo.io/about/hugo-and-gdpr/)
 [privacy]
   # privacy of the Google Analytics (replaced by params.analytics.google)
   [privacy.googleAnalytics]
     # ...
-  [privacy.twitter]
+  [privacy.x]
     enableDNT = true
   [privacy.youtube]
     privacyEnhanced = true
@@ -570,8 +569,10 @@ googleAnalytics = ""
 [outputs]
   home = ["HTML", "RSS", "JSON"]
   page = ["HTML", "MarkDown"]
+  rss = ['RSS']
   section = ["HTML", "RSS"]
   taxonomy = ["HTML", "RSS"]
+  term = ['HTML', 'RSS']
 
 # Multilingual
 # 多语言

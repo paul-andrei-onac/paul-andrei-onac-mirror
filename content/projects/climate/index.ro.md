@@ -1,6 +1,6 @@
 ---
 weight: 1
-title: "Climate"
+title: "🔥 Climate"
 date: 2024-02-08T21:57:40+08:00
 draft: false
 author: "Andrei"

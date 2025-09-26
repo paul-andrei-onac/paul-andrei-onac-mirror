@@ -1,6 +1,6 @@
 ---
 weight: 1
-title: "EVE"
+title: "🔥 EVE"
 date: 2024-06-15
 draft: false
 author: "Andrei"

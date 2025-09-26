@@ -1,6 +1,6 @@
 ---
 weight: 1
-title: "Weather Generator"
+title: "🔥 Weather Generator"
 date: 2025-07-10
 draft: false
 author: "Andrei"

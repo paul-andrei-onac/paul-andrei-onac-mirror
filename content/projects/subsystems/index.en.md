@@ -1,6 +1,6 @@
 ---
 weight: 1
-title: "Subsystems"
+title: "🔥 Subsystems"
 date: 2024-08-22
 draft: false
 author: "Andrei"

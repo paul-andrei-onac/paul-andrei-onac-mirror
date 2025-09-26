@@ -1,11 +1,11 @@
 ---
 weight: 1
-title: "🔥 EVE"
-date: 2024-06-15
-draft: false
+title: "🔥 ESiWACE"
+date: 2025-05-13
+draft: true
 author: "Andrei"
 authorLink: "https://paul-andrei-onac.ro"
-description: "Earth Virtualization Engines"
+description: "ESiWACE"
 images: []
 resources:
 - name: "featured-image"
@@ -17,8 +17,6 @@ categories: ["Projects"]
 lightgallery: true
 ---
 
-## Earth Virtualization Engines
+![ESiWACE](/image.jpg)
 
-![EVE](/image.png)
-
-[Vezi Proiectul](https://eve4climate.org/)
+[Vezi Proiectul](https://esiwace.eu/)

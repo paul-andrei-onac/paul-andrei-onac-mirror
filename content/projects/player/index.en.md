@@ -1,6 +1,6 @@
 ---
 weight: 1
-title: "Custom Video Player"
+title: "🔥 Custom Video Player"
 date: 2024-03-15
 draft: false
 author: "Andrei"

@@ -19,4 +19,4 @@ lightgallery: true
 
 ![Zeppelin](/image.webp)
 
-[Vezi Proiectul](https://zeppelin.heavyhead.ro/)
+[Vezi Proiectul](https://zeppelinpub.ro/)

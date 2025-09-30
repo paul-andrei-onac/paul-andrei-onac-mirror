@@ -2,7 +2,7 @@
 weight: 1
 title: "🔥 ESiWACE"
 date: 2025-05-13
-draft: true
+draft: false
 author: "Andrei"
 authorLink: "https://paul-andrei-onac.ro"
 description: "ESiWACE"
@@ -19,4 +19,4 @@ lightgallery: true
 
 ![ESiWACE](/image.jpg)
 
-[Vezi Proiectul](https://esiwace.eu/)
+[Vezi Proiectul](https://www.esiwace.eu/)

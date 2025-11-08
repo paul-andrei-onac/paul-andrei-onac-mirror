@@ -1,0 +1,48 @@
+name: ${PROJECT_NAMESPACE}
+
+services:
+  hugo:
+    build:
+      dockerfile: ./docker/services/hugo/Dockerfile
+      args:
+        HUGO_VERSION: "${HUGO_VERSION}"
+    container_name: ${PROJECT_NAMESPACE}-hugo
+    volumes:
+      - ./:/work
+      - npm-cache:/npm-cache
+    environment:
+      HUGO_ENV: development
+      NPM_CONFIG_CACHE: /npm-cache
+    command: >
+      sh -c "
+        if [ ! -f package.json ]; then
+          echo 'No package.json found. Please check if you are in the correct directory.'
+          exit 1
+        fi
+        if [ ! -d node_modules ]; then
+          echo 'Installing dependencies...'
+          npm install
+        else
+          echo 'Checking dependencies...'
+          npm install --check-files
+        fi
+        echo 'Running Hugo server...'
+        hugo server --bind 0.0.0.0 --disableLiveReload
+      "
+    labels:
+      - "traefik.enable=true"
+      - "traefik.http.routers.${PROJECT_NAMESPACE}-hugo.rule=Host(`${PROJECT_NAMESPACE}.localhost`)"
+      - "traefik.http.routers.${PROJECT_NAMESPACE}-hugo.entrypoints=web"
+      - "traefik.http.services.${PROJECT_NAMESPACE}-hugo.loadbalancer.server.port=1313"
+      - "traefik.docker.network=traefik-proxy"
+    networks:
+      - local
+      - traefik-proxy
+
+volumes:
+  npm-cache:
+
+networks:
+  local:
+  traefik-proxy:
+    external: true

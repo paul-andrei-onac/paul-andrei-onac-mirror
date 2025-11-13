@@ -42,5 +42,8 @@
     "postcss": "^8.4.23",
     "postcss-cli": "^10.1.0",
     "segmentit": "^2.0.3"
+  },
+  "dependencies": {
+    "vanilla-cookieconsent": "^3.1.0"
   }
 }

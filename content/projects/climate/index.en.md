@@ -21,4 +21,4 @@ lightgallery: true
 
 ![Climate](./image.png)
 
-[See the project](https://lt.org/science/landing/what-is-climate/)
+[See the project](https://lt.org/landing/what-is-climate/)

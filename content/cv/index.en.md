@@ -147,8 +147,8 @@ Skills: Cascading Style Sheets (CSS) · HTML · Responsive Web Design
 
 ## Side Projects
 
-- https://lt.org/science/landing/what-is-climate/
-- https://lt.org/science/landing/climate-subsystems/
+- https://lt.org/landing/what-is-climate/
+- https://lt.org/landing/climate-subsystems/
 - https://weathergenerator.eu/
 - https://eve4climate.org/
 - https://marketplace.emag.ro/
@@ -178,11 +178,12 @@ Skills: Cascading Style Sheets (CSS) · HTML · Responsive Web Design
 
 {{< label >}}
 
+- [JAMStack](https://jamstack.org/)
+- [HUGO Framework](https://gohugo.io/)
+- [Tailwind](https://tailwindcss.com/)
 - [Front End Development]()
 - [SASS | SCSS](https://sass-lang.com/)
 - [Responsive Web Design]()
-- [Tailwind](https://tailwindcss.com/)
-- [HUGO Framework](https://gohugo.io/)
 - [Cross-Browser Compatibility](https://caniuse.com/)
 - [Communication Skills]()
 
@@ -193,13 +194,16 @@ Skills: Cascading Style Sheets (CSS) · HTML · Responsive Web Design
 
 ### Skills
 
+- [HUGO](https://gohugo.io/)
+- [Astro](https://astro.build/)
+- [Nuxt](https://nuxt.com/)
+- [Strapi](https://strapi.io/)
+- [PagesCMS](https://pagescms.org/)
+- [DecapCMS](https://decapcms.org/)
 - [Bootstrap](https://getbootstrap.com/)
 - [Bulma](https://bulma.io/)
 - [Foundation](https://get.foundation/)
 - [JavaScript]()
-- [Astro](https://astro.build/)
-- [Nuxt](https://nuxt.com/)
-- [Strapi](https://strapi.io/)
 - [HTML]()
 - [Cascading Style Sheets (CSS)]()
 - [Docker](https://www.docker.com/)

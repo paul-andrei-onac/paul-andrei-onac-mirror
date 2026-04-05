@@ -1,5 +1,5 @@
 # 1) Build stage: Compile Hugo Extended from source
-FROM golang:1.24.3 AS hugo-builder
+FROM golang:1.26.1-bookworm AS hugo-builder
 
 ARG HUGO_VERSION=latest
 
@@ -17,7 +17,7 @@ RUN if [ "${HUGO_VERSION}" = "latest" ]; then \
     fi
 
 # 2) Final stage: Use node:22
-FROM node:22
+FROM node:22-bookworm
 
 RUN ARCH=$(uname -m) \
     && case ${ARCH} in \

@@ -373,7 +373,7 @@ googleAnalytics = ""
         numPosts = 10
         appId = ""
         # automatically adapt the current theme i18n configuration when empty
-        languageCode = ""
+        locale = ""
       # Telegram comments config (https://comments.app/)
       [params.page.comment.telegram]
         enable = false
@@ -578,8 +578,8 @@ googleAnalytics = ""
 [languages]
   [languages.en]
     weight = 1
-    languageCode = "en"
-    languageName = "English"
+    locale = "en"
+    label = "English"
     hasCJKLanguage = false
     copyright = "This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License."
     [languages.en.menu]
@@ -665,8 +665,8 @@ googleAnalytics = ""
 
   [languages.ro]
     weight = 2
-    languageCode = "ro_RO"
-    languageName = "Română"
+    locale = "ro_RO"
+    label = "Română"
     hasCJKLanguage = true
     copyright = "This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License."
     [languages.ro.menu]

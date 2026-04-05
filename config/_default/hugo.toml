@@ -675,7 +675,7 @@ googleAnalytics = ""
         identifier = "posts"
         pre = ""
         post = ""
-        name = "Posturi"
+        name = "Postări"
         url = "/posts/"
         title = ""
       [[languages.ro.menu.main]]
